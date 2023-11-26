@@ -55,6 +55,7 @@
 			</MarkerCategory>		
 		</MarkerCategory>
 		
+		<!-- Auric Basin Categories -->
 		<MarkerCategory name="ab" DisplayName="Auric Basin" toggledefault="1">
 			<MarkerCategory name="asig" DisplayName="A Study in Gold" toggledefault="1">
 				<MarkerCategory name="tablet_1" DisplayName="Tablet #1"/>
