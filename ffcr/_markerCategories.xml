@@ -3,80 +3,115 @@
 	<MarkerCategory name="ffcr" DisplayName="Flooch's Friendly Collection Routes">
 		
 		<!-- Ember Bay Categories -->
-		<MarkerCategory name="eb" DisplayName="Ember Bay" toggledefault="1">
-			<MarkerCategory name="mtc" DisplayName="Mursaat Token Collector" toggledefault="1">
-				<MarkerCategory name="token_1" DisplayName="Token #1"/>
-				<MarkerCategory name="token_2_and_3" DisplayName="Token #2 and #3"/>
-				<MarkerCategory name="token_4" DisplayName="Token #4"/>
-				<MarkerCategory name="token_5_and_8" DisplayName="Token #5 and #8"/>
-				<MarkerCategory name="token_6" DisplayName="Token #6"/>
-				<MarkerCategory name="token_7" DisplayName="Token #7"/>
-				<MarkerCategory name="token_9_and_38" DisplayName="Token #9 and #38"/>
-				<MarkerCategory name="token_10_and_36_and_37" DisplayName="Token #10 and #36 and #37"/>
-				<MarkerCategory name="token_11" DisplayName="Token #11"/>
-				<MarkerCategory name="token_12" DisplayName="Token #12"/>
-				<MarkerCategory name="token_13" DisplayName="Token #13"/>
-				<MarkerCategory name="token_14_and_27" DisplayName="Token #14 and #27"/>
-				<MarkerCategory name="token_15" DisplayName="Token #15"/>
-				<MarkerCategory name="token_16_and_21_and_28_and_39" DisplayName="Token #16 and #21 and #28 and #39"/>
-				<MarkerCategory name="token_17" DisplayName="Token #17"/>
-				<MarkerCategory name="token_18_and_19_and_35" DisplayName="Token #18 and #19 and #35"/>
-				<MarkerCategory name="token_20_and_34" DisplayName="Token #20 and #34"/>
-				<MarkerCategory name="token_22" DisplayName="Token #22"/>
-				<MarkerCategory name="token_23_and_24" DisplayName="Token #23 and #24"/>
-				<MarkerCategory name="token_25" DisplayName="Token #25"/>
-				<MarkerCategory name="token_26" DisplayName="Token #26"/>
-				<MarkerCategory name="token_29" DisplayName="Token #29"/>
-				<MarkerCategory name="token_30" DisplayName="Token #30"/>
-				<MarkerCategory name="token_31" DisplayName="Token #31"/>
-				<MarkerCategory name="token_32" DisplayName="Token #32"/>
-				<MarkerCategory name="token_33" DisplayName="Token #33"/>
-				<MarkerCategory name="token_40" DisplayName="Token #40"/>
-			</MarkerCategory>
-		</MarkerCategory>
+		
+			<!-- Token Collector -->
+				<MarkerCategory name="eb" DisplayName="Ember Bay">
+					<MarkerCategory name="mtc" DisplayName="Token Collector" defaulttoggle="0">
+						<MarkerCategory name="token_1" DisplayName="Token #1"/>
+						<MarkerCategory name="token_2_and_3" DisplayName="Token #2 and #3"/>
+						<MarkerCategory name="token_4" DisplayName="Token #4"/>
+						<MarkerCategory name="token_5_and_8" DisplayName="Token #5 and #8"/>
+						<MarkerCategory name="token_6" DisplayName="Token #6"/>
+						<MarkerCategory name="token_7" DisplayName="Token #7"/>
+						<MarkerCategory name="token_9_and_38" DisplayName="Token #9 and #38"/>
+						<MarkerCategory name="token_10_and_36_and_37" DisplayName="Token #10 and #36 and #37"/>
+						<MarkerCategory name="token_11" DisplayName="Token #11"/>
+						<MarkerCategory name="token_12" DisplayName="Token #12"/>
+						<MarkerCategory name="token_13" DisplayName="Token #13"/>
+						<MarkerCategory name="token_14_and_27" DisplayName="Token #14 and #27"/>
+						<MarkerCategory name="token_15" DisplayName="Token #15"/>
+						<MarkerCategory name="token_16_and_21_and_28_and_39" DisplayName="Token #16 and #21 and #28 and #39"/>
+						<MarkerCategory name="token_17" DisplayName="Token #17"/>
+						<MarkerCategory name="token_18_and_19_and_35" DisplayName="Token #18 and #19 and #35"/>
+						<MarkerCategory name="token_20_and_34" DisplayName="Token #20 and #34"/>
+						<MarkerCategory name="token_22" DisplayName="Token #22"/>
+						<MarkerCategory name="token_23_and_24" DisplayName="Token #23 and #24"/>
+						<MarkerCategory name="token_25" DisplayName="Token #25"/>
+						<MarkerCategory name="token_26" DisplayName="Token #26"/>
+						<MarkerCategory name="token_29" DisplayName="Token #29"/>
+						<MarkerCategory name="token_30" DisplayName="Token #30"/>
+						<MarkerCategory name="token_31" DisplayName="Token #31"/>
+						<MarkerCategory name="token_32" DisplayName="Token #32"/>
+						<MarkerCategory name="token_33" DisplayName="Token #33"/>
+						<MarkerCategory name="token_40" DisplayName="Token #40"/>
+					</MarkerCategory>
+				</MarkerCategory>
 		
 		<!-- Draconis Mons Categories -->
-		<MarkerCategory name="dm" DisplayName="Draconis Mons" toggledefault="1">
-			<MarkerCategory name="ll" DisplayName="Lessons Learned" toggledefault="1">
-				<MarkerCategory name="recording_1" DisplayName="Recording #1"/>
-				<MarkerCategory name="recording_2" DisplayName="Recording #2"/>
-				<MarkerCategory name="recording_3" DisplayName="Recording #3"/>
-				<MarkerCategory name="recording_4" DisplayName="Recording #4"/>
-				<MarkerCategory name="recording_5" DisplayName="Recording #5"/>
-				<MarkerCategory name="recording_6" DisplayName="Recording #6"/>
-				<MarkerCategory name="recording_7" DisplayName="Recording #7"/>
-				<MarkerCategory name="recording_8" DisplayName="Recording #8"/>
-				<MarkerCategory name="recording_9" DisplayName="Recording #9"/>
-				<MarkerCategory name="recording_10" DisplayName="Recording #10"/>
-				<MarkerCategory name="recording_11" DisplayName="Recording #11"/>
-				<MarkerCategory name="recording_12" DisplayName="Recording #12"/>
-				<MarkerCategory name="recording_13" DisplayName="Recording #13"/>
-				<MarkerCategory name="recording_14" DisplayName="Recording #14"/>
-			</MarkerCategory>		
-		</MarkerCategory>
+		
+			<!-- Lessons Learned -->
+				<MarkerCategory name="dm" DisplayName="Draconis Mons">
+					<MarkerCategory name="ll" DisplayName="Lessons Learned" defaulttoggle="0">
+						<MarkerCategory name="recording_1" DisplayName="Recording #1"/>
+						<MarkerCategory name="recording_2" DisplayName="Recording #2"/>
+						<MarkerCategory name="recording_3" DisplayName="Recording #3"/>
+						<MarkerCategory name="recording_4" DisplayName="Recording #4"/>
+						<MarkerCategory name="recording_5" DisplayName="Recording #5"/>
+						<MarkerCategory name="recording_6" DisplayName="Recording #6"/>
+						<MarkerCategory name="recording_7" DisplayName="Recording #7"/>
+						<MarkerCategory name="recording_8" DisplayName="Recording #8"/>
+						<MarkerCategory name="recording_9" DisplayName="Recording #9"/>
+						<MarkerCategory name="recording_10" DisplayName="Recording #10"/>
+						<MarkerCategory name="recording_11" DisplayName="Recording #11"/>
+						<MarkerCategory name="recording_12" DisplayName="Recording #12"/>
+						<MarkerCategory name="recording_13" DisplayName="Recording #13"/>
+						<MarkerCategory name="recording_14" DisplayName="Recording #14"/>
+					</MarkerCategory>		
+				</MarkerCategory>
 		
 		<!-- Auric Basin Categories -->
-		<MarkerCategory name="ab" DisplayName="Auric Basin" toggledefault="1">
-			<MarkerCategory name="asig" DisplayName="A Study in Gold" toggledefault="1">
-				<MarkerCategory name="tablet_1" DisplayName="Tablet #1"/>
-				<MarkerCategory name="tablet_2" DisplayName="Tablet #2"/>
-				<MarkerCategory name="tablet_3" DisplayName="Tablet #3"/>
-				<MarkerCategory name="tablet_4" DisplayName="Tablet #4"/>
-				<MarkerCategory name="tablet_5" DisplayName="Tablet #5"/>
-				<MarkerCategory name="tablet_6" DisplayName="Tablet #6"/>
-				<MarkerCategory name="tablet_7" DisplayName="Tablet #7"/>
-				<MarkerCategory name="tablet_8" DisplayName="Tablet #8"/>
-				<MarkerCategory name="tablet_9" DisplayName="Tablet #9"/>
-				<MarkerCategory name="tablet_10" DisplayName="Tablet #10"/>
-				<MarkerCategory name="tablet_11" DisplayName="Tablet #11"/>
-				<MarkerCategory name="tablet_12" DisplayName="Tablet #12"/>
-				<MarkerCategory name="tablet_13" DisplayName="Tablet #13"/>
-				<MarkerCategory name="tablet_14" DisplayName="Tablet #14"/>
-				<MarkerCategory name="tablet_15" DisplayName="Tablet #15"/>
-				<MarkerCategory name="tablet_16" DisplayName="Tablet #16"/>
-				<MarkerCategory name="tablet_17" DisplayName="Tablet #17"/>
-			</MarkerCategory>		
-		</MarkerCategory>
+		
+			<!-- A Study In Gold -->
+				<MarkerCategory name="ab" DisplayName="Auric Basin">
+					<MarkerCategory name="asig" DisplayName="A Study in Gold" defaulttoggle="0">
+						<MarkerCategory name="tablet_1" DisplayName="Tablet #1"/>
+						<MarkerCategory name="tablet_2" DisplayName="Tablet #2"/>
+						<MarkerCategory name="tablet_3" DisplayName="Tablet #3"/>
+						<MarkerCategory name="tablet_4" DisplayName="Tablet #4"/>
+						<MarkerCategory name="tablet_5" DisplayName="Tablet #5"/>
+						<MarkerCategory name="tablet_6" DisplayName="Tablet #6"/>
+						<MarkerCategory name="tablet_7" DisplayName="Tablet #7"/>
+						<MarkerCategory name="tablet_8" DisplayName="Tablet #8"/>
+						<MarkerCategory name="tablet_9" DisplayName="Tablet #9"/>
+						<MarkerCategory name="tablet_10" DisplayName="Tablet #10"/>
+						<MarkerCategory name="tablet_11" DisplayName="Tablet #11"/>
+						<MarkerCategory name="tablet_12" DisplayName="Tablet #12"/>
+						<MarkerCategory name="tablet_13" DisplayName="Tablet #13"/>
+						<MarkerCategory name="tablet_14" DisplayName="Tablet #14"/>
+						<MarkerCategory name="tablet_15" DisplayName="Tablet #15"/>
+						<MarkerCategory name="tablet_16" DisplayName="Tablet #16"/>
+						<MarkerCategory name="tablet_17" DisplayName="Tablet #17"/>
+					</MarkerCategory>
+				
+			<!-- No Mask Left Behind -->
+					<MarkerCategory name="nmlb" DisplayName="No Mask Left Behind" defaulttoggle="0">
+						<MarkerCategory name="mask_1" DisplayName="Mask #1"/>
+						<MarkerCategory name="mask_2" DisplayName="Mask #2"/>
+						<MarkerCategory name="mask_3" DisplayName="Mask #3"/>
+						<MarkerCategory name="mask_4" DisplayName="Mask #4"/>
+						<MarkerCategory name="mask_5" DisplayName="Mask #5"/>
+						<MarkerCategory name="mask_6" DisplayName="Mask #6"/>
+						<MarkerCategory name="mask_7" DisplayName="Mask #7"/>
+						<MarkerCategory name="mask_8" DisplayName="Mask #8"/>
+						<MarkerCategory name="mask_9" DisplayName="Mask #9"/>
+						<MarkerCategory name="mask_10" DisplayName="Mask #10"/>
+						<MarkerCategory name="mask_11" DisplayName="Mask #11"/>
+						<MarkerCategory name="mask_12" DisplayName="Mask #12"/>
+						<MarkerCategory name="mask_13" DisplayName="Mask #13"/>
+						<MarkerCategory name="mask_14" DisplayName="Mask #14"/>
+						<MarkerCategory name="mask_15" DisplayName="Mask #15"/>
+						<MarkerCategory name="mask_16" DisplayName="Mask #16"/>
+						<MarkerCategory name="mask_17" DisplayName="Mask #17"/>
+						<MarkerCategory name="mask_18" DisplayName="Mask #18"/>
+						<MarkerCategory name="mask_19" DisplayName="Mask #19"/>
+						<MarkerCategory name="mask_20" DisplayName="Mask #20"/>
+						<MarkerCategory name="mask_21" DisplayName="Mask #21"/>
+						<MarkerCategory name="mask_22" DisplayName="Mask #22"/>
+						<MarkerCategory name="mask_23" DisplayName="Mask #23"/>
+						<MarkerCategory name="mask_24" DisplayName="Mask #24"/>
+						<MarkerCategory name="mask_25" DisplayName="Mask #25"/>
+					</MarkerCategory>	
+				</MarkerCategory>
 		
 	</MarkerCategory>
 </OverlayData>

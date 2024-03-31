@@ -3,105 +3,113 @@
   <POIs>
   
 	<!-- Ember Bay Trails -->
-	<Trail type="ffcr.eb.mtc.token_1" GUID="sFaDLKR1OEOVzYn9jagJrg==" fadeNear="-1" fadeFar="4000" color="fe6bd7" trailData="Data/trails/ember_bay/token_trail_1.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.eb.mtc.token_2_and_3" GUID="cWb3l6oAK0eSKXowCzFRwA==" fadeNear="-1" fadeFar="4000" color="2d60f9" trailData="Data/trails/ember_bay/token_trail_2_and_3.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.eb.mtc.token_4" GUID="4739Jzz780O4Hp0/8tfBDg==" fadeNear="-1" fadeFar="4000" color="6100b0" trailData="Data/trails/ember_bay/token_trail_4.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.eb.mtc.token_5_and_8" GUID="AR13IfG71Uep++5q2wnRsg==" fadeNear="-1" fadeFar="4000" color="fe6bd7" trailData="Data/trails/ember_bay/token_trail_5_and_8.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.eb.mtc.token_6" GUID="yNQmeMD8tkyT7wWvw2t3/w==" fadeNear="-1" fadeFar="4000" color="fe6bd7" trailData="Data/trails/ember_bay/token_trail_6.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.eb.mtc.token_7" GUID="egDmwnFNtkavsHBETfiQ9A==" fadeNear="-1" fadeFar="4000" color="2d60f9" trailData="Data/trails/ember_bay/token_trail_7.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.eb.mtc.token_9_and_38" GUID="dYKHS3tkp0iPXKXuCLQVkQ==" fadeNear="-1" fadeFar="4000" color="ffef08" trailData="Data/trails/ember_bay/token_trail_9_and_38.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.eb.mtc.token_10_and_36_and_37" GUID="nkF5xNGA50S2qkfmJQ9fMg==" fadeNear="-1" fadeFar="4000" color="ffef08" trailData="Data/trails/ember_bay/token_trail_10_and_36_and_37.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.eb.mtc.token_11" GUID="j+Vjc1PqmkWh16VgofmgXQ==" fadeNear="-1" fadeFar="4000" color="a020f0" trailData="Data/trails/ember_bay/token_trail_11.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.eb.mtc.token_12" GUID="yyMes+MjSEKXOQN/2dCtvA==" fadeNear="-1" fadeFar="4000" color="2d60f9" trailData="Data/trails/ember_bay/token_trail_12.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.eb.mtc.token_13" GUID="MkijCBAHKU2i0JqsrOg98g==" fadeNear="-1" fadeFar="4000" color="6100b0" trailData="Data/trails/ember_bay/token_trail_13.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.eb.mtc.token_14_and_27" GUID="F8k8oGcAs0iVLIt6Zcp4jA==" fadeNear="-1" fadeFar="4000" color="f94548" trailData="Data/trails/ember_bay/token_trail_14_and_27.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.eb.mtc.token_15" GUID="YrSR7i4hjEOjOKoaicDeFg==" fadeNear="-1" fadeFar="4000" color="6100b0" trailData="Data/trails/ember_bay/token_trail_15.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.eb.mtc.token_16_and_21_and_28_and_39" GUID="SwAFqDz6jkOeBsOrQR66qw==" fadeNear="-1" fadeFar="4000" color="fcd00" trailData="Data/trails/ember_bay/token_trail_16_and_21_and_28_and_39.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.eb.mtc.token_17" GUID="VWPeQGxNP0yiLywxYot97Q==" fadeNear="-1" fadeFar="4000" color="2d60f9" trailData="Data/trails/ember_bay/token_trail_17.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.eb.mtc.token_18_and_19_and_35" GUID="lN8ED+ltX0aHSOZdaKjNUw==" fadeNear="-1" fadeFar="4000" color="6100b0" trailData="Data/trails/ember_bay/token_trail_18_and_19_and_35.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.eb.mtc.token_20_and_34" GUID="0IPfhqYlAkuuHq+y08jOBQ==" fadeNear="-1" fadeFar="4000" color="fe6bd7" trailData="Data/trails/ember_bay/token_trail_20_and_34.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.eb.mtc.token_22" GUID="kN+d4TGFNkyZ5By0s2+OVw==" fadeNear="-1" fadeFar="4000" color="ffef08" trailData="Data/trails/ember_bay/token_trail_22.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.eb.mtc.token_23_and_24" GUID="pPifnv7oBU6sfWoSq11TpQ==" fadeNear="-1" fadeFar="4000" color="ffef08" trailData="Data/trails/ember_bay/token_trail_23_and_24.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.eb.mtc.token_25" GUID="Cy4JP4ekBUanhEdxiEgGiQ==" fadeNear="-1" fadeFar="4000" color="ffa500" trailData="Data/trails/ember_bay/token_trail_25.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.eb.mtc.token_26" GUID="XdhHR75bNEiu1LGQVQpwIQ==" fadeNear="-1" fadeFar="4000" color="f94548" trailData="Data/trails/ember_bay/token_trail_26.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.eb.mtc.token_29" GUID="0sfDUa5vCUejydkyWQNs6Q==" fadeNear="-1" fadeFar="4000" color="fcd00" trailData="Data/trails/ember_bay/token_trail_29.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.eb.mtc.token_30" GUID="jstmxrH7B0ag4ciz0veRkw==" fadeNear="-1" fadeFar="4000" color="ffef08" trailData="Data/trails/ember_bay/token_trail_30.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.eb.mtc.token_31" GUID="ixGFFz2S0UKL/ypBWKg/3g==" fadeNear="-1" fadeFar="4000" color="2d60f9" trailData="Data/trails/ember_bay/token_trail_31.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.eb.mtc.token_32" GUID="pYXoc4AD8kKohDjNP3V+YQ==" fadeNear="-1" fadeFar="4000" color="fcd00" trailData="Data/trails/ember_bay/token_trail_32.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.eb.mtc.token_33" GUID="odM0rznoFEKnjirsxpG3Cw==" fadeNear="-1" fadeFar="4000" color="f94548" trailData="Data/trails/ember_bay/token_trail_33.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.eb.mtc.token_40" GUID="mHuH4iD+W0uirMg5FCN+eg==" fadeNear="-1" fadeFar="4000" color="fcd00" trailData="Data/trails/ember_bay/token_trail_40.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.eb.mtc" GUID="86fM5FjokEi28hIZ32dkDw==" fadeNear="-1" fadeFar="4000" color="ffffff" trailData="Data/trails/ember_bay/chalice_bypass.trl" texture="Data/trail.png"/>
+	
+		<!-- Token Collector -->
+			<Trail type="ffcr.eb.mtc.token_1" GUID="sFaDLKR1OEOVzYn9jagJrg==" fadeNear="-1" fadeFar="4000" color="fe6bd7" trailData="Data/trails/ember_bay/tokencollector/token_trail_1.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.eb.mtc.token_2_and_3" GUID="cWb3l6oAK0eSKXowCzFRwA==" fadeNear="-1" fadeFar="4000" color="2d60f9" trailData="Data/trails/ember_bay/tokencollector/token_trail_2_and_3.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.eb.mtc.token_4" GUID="4739Jzz780O4Hp0/8tfBDg==" fadeNear="-1" fadeFar="4000" color="6100b0" trailData="Data/trails/ember_bay/tokencollector/token_trail_4.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.eb.mtc.token_5_and_8" GUID="AR13IfG71Uep++5q2wnRsg==" fadeNear="-1" fadeFar="4000" color="fe6bd7" trailData="Data/trails/ember_bay/tokencollector/token_trail_5_and_8.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.eb.mtc.token_6" GUID="yNQmeMD8tkyT7wWvw2t3/w==" fadeNear="-1" fadeFar="4000" color="fe6bd7" trailData="Data/trails/ember_bay/tokencollector/token_trail_6.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.eb.mtc.token_7" GUID="egDmwnFNtkavsHBETfiQ9A==" fadeNear="-1" fadeFar="4000" color="2d60f9" trailData="Data/trails/ember_bay/tokencollector/token_trail_7.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.eb.mtc.token_9_and_38" GUID="dYKHS3tkp0iPXKXuCLQVkQ==" fadeNear="-1" fadeFar="4000" color="ffef08" trailData="Data/trails/ember_bay/tokencollector/token_trail_9_and_38.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.eb.mtc.token_10_and_36_and_37" GUID="nkF5xNGA50S2qkfmJQ9fMg==" fadeNear="-1" fadeFar="4000" color="ffef08" trailData="Data/trails/ember_bay/tokencollector/token_trail_10_and_36_and_37.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.eb.mtc.token_11" GUID="j+Vjc1PqmkWh16VgofmgXQ==" fadeNear="-1" fadeFar="4000" color="a020f0" trailData="Data/trails/ember_bay/tokencollector/token_trail_11.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.eb.mtc.token_12" GUID="yyMes+MjSEKXOQN/2dCtvA==" fadeNear="-1" fadeFar="4000" color="2d60f9" trailData="Data/trails/ember_bay/tokencollector/token_trail_12.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.eb.mtc.token_13" GUID="MkijCBAHKU2i0JqsrOg98g==" fadeNear="-1" fadeFar="4000" color="6100b0" trailData="Data/trails/ember_bay/tokencollector/token_trail_13.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.eb.mtc.token_14_and_27" GUID="F8k8oGcAs0iVLIt6Zcp4jA==" fadeNear="-1" fadeFar="4000" color="f94548" trailData="Data/trails/ember_bay/tokencollector/token_trail_14_and_27.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.eb.mtc.token_15" GUID="YrSR7i4hjEOjOKoaicDeFg==" fadeNear="-1" fadeFar="4000" color="6100b0" trailData="Data/trails/ember_bay/tokencollector/token_trail_15.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.eb.mtc.token_16_and_21_and_28_and_39" GUID="SwAFqDz6jkOeBsOrQR66qw==" fadeNear="-1" fadeFar="4000" color="fcd00" trailData="Data/trails/ember_bay/tokencollector/token_trail_16_and_21_and_28_and_39.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.eb.mtc.token_17" GUID="VWPeQGxNP0yiLywxYot97Q==" fadeNear="-1" fadeFar="4000" color="2d60f9" trailData="Data/trails/ember_bay/tokencollector/token_trail_17.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.eb.mtc.token_18_and_19_and_35" GUID="lN8ED+ltX0aHSOZdaKjNUw==" fadeNear="-1" fadeFar="4000" color="6100b0" trailData="Data/trails/ember_bay/tokencollector/token_trail_18_and_19_and_35.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.eb.mtc.token_20_and_34" GUID="0IPfhqYlAkuuHq+y08jOBQ==" fadeNear="-1" fadeFar="4000" color="fe6bd7" trailData="Data/trails/ember_bay/tokencollector/token_trail_20_and_34.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.eb.mtc.token_22" GUID="kN+d4TGFNkyZ5By0s2+OVw==" fadeNear="-1" fadeFar="4000" color="ffef08" trailData="Data/trails/ember_bay/tokencollector/token_trail_22.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.eb.mtc.token_23_and_24" GUID="pPifnv7oBU6sfWoSq11TpQ==" fadeNear="-1" fadeFar="4000" color="ffef08" trailData="Data/trails/ember_bay/tokencollector/token_trail_23_and_24.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.eb.mtc.token_25" GUID="Cy4JP4ekBUanhEdxiEgGiQ==" fadeNear="-1" fadeFar="4000" color="ffa500" trailData="Data/trails/ember_bay/tokencollector/token_trail_25.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.eb.mtc.token_26" GUID="XdhHR75bNEiu1LGQVQpwIQ==" fadeNear="-1" fadeFar="4000" color="f94548" trailData="Data/trails/ember_bay/tokencollector/token_trail_26.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.eb.mtc.token_29" GUID="0sfDUa5vCUejydkyWQNs6Q==" fadeNear="-1" fadeFar="4000" color="fcd00" trailData="Data/trails/ember_bay/tokencollector/token_trail_29.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.eb.mtc.token_30" GUID="jstmxrH7B0ag4ciz0veRkw==" fadeNear="-1" fadeFar="4000" color="ffef08" trailData="Data/trails/ember_bay/tokencollector/token_trail_30.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.eb.mtc.token_31" GUID="ixGFFz2S0UKL/ypBWKg/3g==" fadeNear="-1" fadeFar="4000" color="2d60f9" trailData="Data/trails/ember_bay/tokencollector/token_trail_31.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.eb.mtc.token_32" GUID="pYXoc4AD8kKohDjNP3V+YQ==" fadeNear="-1" fadeFar="4000" color="fcd00" trailData="Data/trails/ember_bay/tokencollector/token_trail_32.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.eb.mtc.token_33" GUID="odM0rznoFEKnjirsxpG3Cw==" fadeNear="-1" fadeFar="4000" color="f94548" trailData="Data/trails/ember_bay/tokencollector/token_trail_33.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.eb.mtc.token_40" GUID="mHuH4iD+W0uirMg5FCN+eg==" fadeNear="-1" fadeFar="4000" color="fcd00" trailData="Data/trails/ember_bay/tokencollector/token_trail_40.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.eb.mtc" GUID="86fM5FjokEi28hIZ32dkDw==" fadeNear="-1" fadeFar="4000" color="ffffff" trailData="Data/trails/ember_bay/tokencollector/chalice_bypass.trl" texture="Data/trail.png"/>
 	
 	<!-- Ember Bay Markers -->
-	<POI type="ffcr.eb.mtc.token_1" iconsize="1.2" GUID="ogKM6wEk30iCFQsTXF+yyw==" MapID="1175" xpos="-187.766" ypos="19.7968" zpos="-609.341" iconfile="Data/icons/token_1_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_1" iconsize="1.2" GUID="MLioXOYlgUaTSAFZnxEsPQ==" MapID="1175" xpos="-81.1835" ypos="5.12823" zpos="-457.982" iconfile="Data/icons/token_1_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_2_and_3" iconsize="1.6" GUID="l6N5JAC8uUy7u8wZUOgJ9w==" MapID="1175" xpos="-189.449" ypos="19.7845" zpos="-611.317" iconfile="Data/icons/token_2_3_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_2_and_3" iconsize="1.2" GUID="BO+26DhagEm1/BWb2TsJhA==" MapID="1175" xpos="230.445" ypos="19.009" zpos="-666.614" iconfile="Data/icons/token_2_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_2_and_3" iconsize="1.2" GUID="y/YXAwUa606Y8JUuDDEaRQ==" MapID="1175" xpos="257.749" ypos="32.7311" zpos="-660.401" iconfile="Data/icons/token_3_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_4" iconsize="1.2" GUID="meG+GjXLtkGSaU8lGN6kQQ==" MapID="1175" xpos="252.547" ypos="35.8344" zpos="-874.479" iconfile="Data/icons/token_4_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_4" iconsize="1.2" GUID="Ni4quSpnf0i5eS7KM5uNkQ==" MapID="1175" xpos="-190" ypos="22.2972" zpos="-614.545" iconfile="Data/icons/token_4_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_5_and_8" iconsize="1.6" GUID="47w8nnmlLEegsRndAVRPng==" MapID="1175" xpos="540.857" ypos="15.244" zpos="-265.165" iconfile="Data/icons/token_5_8_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_5_and_8" iconsize="1.2" GUID="VyGO01XrSUOTldJn24humg==" MapID="1175" xpos="63.0627" ypos="32.6642" zpos="-217.87" iconfile="Data/icons/token_8_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_5_and_8" iconsize="1.2" GUID="pDbcWqRr30a7JVbqKcR9wg==" MapID="1175" xpos="117.75" ypos="46.6438" zpos="-234.47" iconfile="Data/icons/token_5_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_6" iconsize="1.2" GUID="JuC+TFkAx0WBKpL4uUQXBw==" MapID="1175" xpos="320.218" ypos="97.3996" zpos="201.779" iconfile="Data/icons/token_6_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_6" iconsize="1.2" GUID="luPEztfRrk21bnTSEc8exA==" MapID="1175" xpos="304.027" ypos="92.1294" zpos="-77.449" iconfile="Data/icons/token_6_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_7" iconsize="1.2" GUID="uQs1UsnzokmknQA7KiXbYg==" MapID="1175" xpos="308.646" ypos="97.0591" zpos="204.096" iconfile="Data/icons/token_7_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_7" iconsize="1.2" GUID="LSXUllD450a1Ucji2MqBsg==" MapID="1175" xpos="22.485" ypos="65.4928" zpos="-125.034" iconfile="Data/icons/token_7_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_9_and_38" iconsize="1.6" GUID="joDXltOgh02N7N/IJovwqg==" MapID="1175" xpos="-879.081" ypos="35.2685" zpos="80.7675" iconfile="Data/icons/token_38_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_9_and_38" iconsize="1.2" GUID="Ig2FfjvlbkGY2DAfrkh2PQ==" MapID="1175" xpos="-890.054" ypos="5.19632" zpos="-11.4639" iconfile="Data/icons/token_9_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_9_and_38" iconsize="1.2" GUID="s7FqF4jiokysBXmTkwPa2w==" MapID="1175" xpos="-615.229" ypos="5.3924" zpos="-487.799" iconfile="Data/icons/token_9_38_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_10_and_36_and_37" iconsize="2" GUID="6QSIxPQSIE6oyJJVXmP1UQ==" MapID="1175" xpos="-193.55" ypos="21.7806" zpos="-615.905" iconfile="Data/icons/token_10_36_37_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_10_and_36_and_37" iconsize="1.2" GUID="tkTFzA4aKUOTb7y3lUnJrQ==" MapID="1175" xpos="248.347" ypos="86.1264" zpos="-752.826" iconfile="Data/icons/token_37_icon.png" tip-name="Token 37" tip-description="Accessible after Molten Dominator"/>
-	<POI type="ffcr.eb.mtc.token_10_and_36_and_37" iconsize="1.2" GUID="QYoEL78iaEScgcS8kO2WLw==" MapID="1175" xpos="259.357" ypos="121.908" zpos="-864.295" iconfile="Data/icons/token_10_icon.png" tip-name="Token 10" tip-description="Accessible after Molten Dominator"/>
-	<POI type="ffcr.eb.mtc.token_10_and_36_and_37" iconsize="1.2" GUID="ZDfo5DGOo0SG+R0yc4N3JA==" MapID="1175" xpos="343.307" ypos="94.7822" zpos="-831.851" iconfile="Data/icons/token_36_icon.png" tip-name="Token 36" tip-description="Accessible after Molten Dominator"/>
-	<POI type="ffcr.eb.mtc.token_11" iconsize="1.2" GUID="G6G58iaFKEiHGR+By+hXMQ==" MapID="1175" xpos="96.258" ypos="-41.6885" zpos="-453.077" iconfile="Data/icons/token_11_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_11" iconsize="1.2" GUID="LodIfvfPSUKsrbS3cMJ/8g==" MapID="1175" xpos="-180.148" ypos="17.5641" zpos="-618.196" iconfile="Data/icons/token_11_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_12" iconsize="1.2" GUID="6RK1ugYrR0KjLlqBXlKYiw==" MapID="1175" xpos="-624.859" ypos="3.85017" zpos="-496.766" iconfile="Data/icons/token_12_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_12" iconsize="1.2" GUID="io4ZMcy1/Em2OMjLalZd2Q==" MapID="1175" xpos="-662.633" ypos="34.936" zpos="-830.348" iconfile="Data/icons/token_12_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_13" iconsize="1.2" GUID="1HOQIS5jNES7SNLiV2OVmA==" MapID="1175" xpos="-612.158" ypos="5.49589" zpos="-487.969" iconfile="Data/icons/token_13_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_13" iconsize="1.2" GUID="elObbdCinU6fZ6LsNrn1ng==" MapID="1175" xpos="-679.423" ypos="39.124" zpos="-147.058" iconfile="Data/icons/token_13_icon.png" tip-name="Token 13" tip-description="Accessible after Sloth Queen"/>
-	<POI type="ffcr.eb.mtc.token_14_and_27" iconsize="1.6" GUID="254umBNuUUaOBzHsdXfmcw==" MapID="1175" xpos="-197.292" ypos="21.047" zpos="-615.723" iconfile="Data/icons/token_14_27_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_14_and_27" iconsize="1.2" GUID="tmcKRMOWk0S5EAIKFQTfmA==" MapID="1175" xpos="-178.732" ypos="187.73" zpos="-432.856" iconfile="Data/icons/token_27_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_14_and_27" iconsize="1.2" GUID="6YypNLeVtUymJrhQT5pW1A==" MapID="1175" xpos="-203.968" ypos="132.164" zpos="-403.222" iconfile="Data/icons/token_14_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_15" iconsize="1.2" GUID="NdnM8/GUnUmP6BQ5xEkDPQ==" MapID="1175" xpos="310.053" ypos="97.1204" zpos="206.142" iconfile="Data/icons/token_15_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_15" iconsize="1.2" GUID="w/mX4yChEEO6m3U9M3qQMQ==" MapID="1175" xpos="-165.862" ypos="149.429" zpos="10.6418" iconfile="Data/icons/token_15_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_16_and_21_and_28_and_39" iconsize="2.2" GUID="QjO21Au4EUSBmVB4EYZuYQ==" MapID="1175" xpos="-606.645" ypos="5.68426" zpos="-497.064" iconfile="Data/icons/token_16_21_28_39_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_16_and_21_and_28_and_39" iconsize="1.2" GUID="yVQn2cNmlE6gLjjUoXWsHw==" MapID="1175" xpos="-517.813" ypos="4.03145" zpos="-463.671" iconfile="Data/icons/token_28_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_16_and_21_and_28_and_39" iconsize="1.2" GUID="+2MJQUSsDUyq5/c5hLIHfw==" MapID="1175" xpos="-199.235" ypos="-86.9966" zpos="-427.101" iconfile="Data/icons/token_16_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_16_and_21_and_28_and_39" iconsize="1.2" GUID="xchz7Tj07kaw7bQ/A5T0SA==" MapID="1175" xpos="-166.752" ypos="45.8829" zpos="-340.159" iconfile="Data/icons/token_39_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_16_and_21_and_28_and_39" iconsize="1.2" GUID="tBhwM6kAUUyBeZ8LXQWRTA==" MapID="1175" xpos="-252.775" ypos="12.7778" zpos="-254.111" iconfile="Data/icons/token_21_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_17" iconsize="1.2" GUID="1iwMI5oMQECX03O3L5bxtw==" MapID="1175" xpos="552.618" ypos="12.1702" zpos="-288.914" iconfile="Data/icons/token_17_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_17" iconsize="1.2" GUID="crCWk5cud0q1ONh8DrSgGA==" MapID="1175" xpos="545.782" ypos="38.2858" zpos="-429.081" iconfile="Data/icons/token_17_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_18_and_19_and_35" iconsize="2" GUID="QLPgjk9hQ0WPZw7fWAkvBw==" MapID="1175" xpos="548.846" ypos="12.3483" zpos="-287.91" iconfile="Data/icons/token_18_19_35_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_18_and_19_and_35" iconsize="1.2" GUID="meiFYEZmekq2WDuw6Imr6Q==" MapID="1175" xpos="373.155" ypos="-0.810922" zpos="-904.815" iconfile="Data/icons/token_19_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_18_and_19_and_35" iconsize="1.2" GUID="3ZOwBPaOVEeBlfWwBjanFQ==" MapID="1175" xpos="377.393" ypos="-3.71678" zpos="-984.036" iconfile="Data/icons/token_35_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_18_and_19_and_35" iconsize="1.2" GUID="EqDrGDx/HUWicmiveJieTA==" MapID="1175" xpos="334.598" ypos="1.66224" zpos="-992.94" iconfile="Data/icons/token_18_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_20_and_34" iconsize="1.6" GUID="2/evTcLN6kCc+lXwD+3upQ==" MapID="1175" xpos="-783.333" ypos="129.777" zpos="108.975" iconfile="Data/icons/token_34_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_20_and_34" iconsize="1.2" GUID="rJ1hRzJaDkSSVlFiYHsm5w==" MapID="1175" xpos="-652.819" ypos="89.9257" zpos="-21.2516" iconfile="Data/icons/token_20_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_20_and_34" iconsize="1.2" GUID="NFPFQ8Ri+U6VDdhNUZfdMw==" MapID="1175" xpos="-621.861" ypos="3.56457" zpos="-502.047" iconfile="Data/icons/token_20_34_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_22" iconsize="1.2" GUID="hqXULj6K2U2WtgrOKGSVVw==" MapID="1175" xpos="311.954" ypos="97.5748" zpos="208.478" iconfile="Data/icons/token_22_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_22" iconsize="1.2" GUID="w5CUHa2T3EWei5r7k1Op1Q==" MapID="1175" xpos="96.3491" ypos="18.1621" zpos="-135.964" iconfile="Data/icons/token_22_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_23_and_24" iconsize="1.6" GUID="v3WjYfjYxkSt7KvC0yp8tg==" MapID="1175" xpos="-538.796" ypos="251.552" zpos="-3.90313" iconfile="Data/icons/token_23_24_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_23_and_24" iconsize="1.2" GUID="GzmC7Gk8fESolqhQq1NN+w==" MapID="1175" xpos="-229.596" ypos="181.811" zpos="-47.7315" iconfile="Data/icons/token_24_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_23_and_24" iconsize="1.2" GUID="0RVdFKbgVUWsT0mW1udDgw==" MapID="1175" xpos="-248.51" ypos="151.752" zpos="-45.2634" iconfile="Data/icons/token_23_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_25" iconsize="1.2" GUID="R/dbbf5J6k26BRFHcToFsA==" MapID="1175" xpos="-618.47" ypos="3.90822" zpos="-503.829" iconfile="Data/icons/token_25_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_25" iconsize="1.2" GUID="SCy0foC0AUaUAeriBCW98g==" MapID="1175" xpos="-580.635" ypos="112.171" zpos="28.4466" iconfile="Data/icons/token_25_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_26" iconsize="1.2" GUID="5Uofj+bemUySJM4yU3DOhw==" MapID="1175" xpos="-576.56" ypos="115.606" zpos="-420.625" iconfile="Data/icons/token_26_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_26" iconsize="1.2" GUID="ujjML62ZbkSuZ2OVcf1l8A==" MapID="1175" xpos="314.11" ypos="98.512" zpos="210.626" iconfile="Data/icons/token_26_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_29" iconsize="1.2" GUID="lYgm/2omDUmijcj7h77vXg==" MapID="1175" xpos="-532.325" ypos="251.194" zpos="-5.1045" iconfile="Data/icons/token_29_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_29" iconsize="1.2" GUID="PlR5gs9ZIEKDVcE6tHzl0Q==" MapID="1175" xpos="-445.605" ypos="179.179" zpos="-73.1428" iconfile="Data/icons/token_29_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_30" iconsize="1.2" GUID="nx6D8HRUUkij2EtRdTucBg==" MapID="1175" xpos="556.522" ypos="12.1613" zpos="-290.009" iconfile="Data/icons/token_30_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_30" iconsize="1.2" GUID="gUhcdHHxCUG1J7JbedBufg==" MapID="1175" xpos="570.337" ypos="16.5144" zpos="-330.862" iconfile="Data/icons/token_30_icon.png" tip-name="Token 30" tip-description="Accessible after completing Igneous Breach"/>
-	<POI type="ffcr.eb.mtc.token_31" iconsize="1.2" GUID="/2VlV6ZDE0mYsqyy2b0K9Q==" MapID="1175" xpos="-537.667" ypos="251.681" zpos="-6.89836" iconfile="Data/icons/token_31_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_31" iconsize="1.2" GUID="kyaJOz71tEu5OkqXwJHBxw==" MapID="1175" xpos="-532.935" ypos="177.392" zpos="-185.413" iconfile="Data/icons/token_31_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_32" iconsize="1.2" GUID="091u/ItBKU2ZBgEQtf0zAA==" MapID="1175" xpos="-709.662" ypos="89.2376" zpos="16.3589" iconfile="Data/icons/token_32_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_32" iconsize="1.2" GUID="uU9hqXuCzU2MFgIj+rAWSg==" MapID="1175" xpos="-615.145" ypos="4.32263" zpos="-505.238" iconfile="Data/icons/token_32_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_33" iconsize="1.2" GUID="/NA5/aIt8kmxAHUufHEHHg==" MapID="1175" xpos="-612.001" ypos="4.62592" zpos="-506.232" iconfile="Data/icons/token_33_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_33" iconsize="1.2" GUID="tXe5GquIjEWFgKWi7WGCXQ==" MapID="1175" xpos="-603.02" ypos="75.104" zpos="-0.19134" iconfile="Data/icons/token_33_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_40" iconsize="1.2" GUID="9jqE5DZA/k6yUZpMYt1t1Q==" MapID="1175" xpos="318.706" ypos="97.8627" zpos="204.742" iconfile="Data/icons/token_40_icon.png"/>
-	<POI type="ffcr.eb.mtc.token_40" iconsize="1.2" GUID="XVZE3q2I1EOIj/6VEtFvBA==" MapID="1175" xpos="815.016" ypos="4.63695" zpos="190.559" iconfile="Data/icons/token_40_icon.png"/>
-	<POI type="ffcr.eb.mtc" iconsize="2" GUID="A/E/FN4dtkuSJ7JtVJNsVQ==" MapID="1175" xpos="-616.197" ypos="0.559614" zpos="-522.809" iconFile="Data/icons/chalice_bypass.png"/>
-	<POI type="ffcr.eb.mtc" iconsize="2" GUID="4ho1CmDFXkC+T9ibN2BQSQ==" MapID="1175" xpos="-532.799" ypos="249.981" zpos="-11.0612" iconFile="Data/icons/chalice_signpost.png"/>
+	
+		<!-- Token Collector -->
+		
+			<!-- Start Markers -->
+				<POI type="ffcr.eb.mtc.token_1" iconsize="1.2" GUID="ogKM6wEk30iCFQsTXF+yyw==" MapID="1175" xpos="-187.766" ypos="19.7968" zpos="-609.341" iconfile="Data/icons/token_1_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_2_and_3" iconsize="1.6" GUID="l6N5JAC8uUy7u8wZUOgJ9w==" MapID="1175" xpos="-189.449" ypos="19.7845" zpos="-611.317" iconfile="Data/icons/token_2_3_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_4" iconsize="1.2" GUID="meG+GjXLtkGSaU8lGN6kQQ==" MapID="1175" xpos="252.547" ypos="35.8344" zpos="-874.479" iconfile="Data/icons/token_4_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_5_and_8" iconsize="1.6" GUID="47w8nnmlLEegsRndAVRPng==" MapID="1175" xpos="540.857" ypos="15.244" zpos="-265.165" iconfile="Data/icons/token_5_8_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_6" iconsize="1.2" GUID="JuC+TFkAx0WBKpL4uUQXBw==" MapID="1175" xpos="320.218" ypos="97.3996" zpos="201.779" iconfile="Data/icons/token_6_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_7" iconsize="1.2" GUID="uQs1UsnzokmknQA7KiXbYg==" MapID="1175" xpos="308.646" ypos="97.0591" zpos="204.096" iconfile="Data/icons/token_7_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_9_and_38" iconsize="1.2" GUID="s7FqF4jiokysBXmTkwPa2w==" MapID="1175" xpos="-615.229" ypos="5.3924" zpos="-487.799" iconfile="Data/icons/token_9_38_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_10_and_36_and_37" iconsize="2" GUID="6QSIxPQSIE6oyJJVXmP1UQ==" MapID="1175" xpos="-193.55" ypos="21.7806" zpos="-615.905" iconfile="Data/icons/token_10_36_37_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_11" iconsize="1.2" GUID="G6G58iaFKEiHGR+By+hXMQ==" MapID="1175" xpos="96.258" ypos="-41.6885" zpos="-453.077" iconfile="Data/icons/token_11_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_12" iconsize="1.2" GUID="6RK1ugYrR0KjLlqBXlKYiw==" MapID="1175" xpos="-624.859" ypos="3.85017" zpos="-496.766" iconfile="Data/icons/token_12_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_13" iconsize="1.2" GUID="1HOQIS5jNES7SNLiV2OVmA==" MapID="1175" xpos="-612.158" ypos="5.49589" zpos="-487.969" iconfile="Data/icons/token_13_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_14_and_27" iconsize="1.6" GUID="254umBNuUUaOBzHsdXfmcw==" MapID="1175" xpos="-197.292" ypos="21.047" zpos="-615.723" iconfile="Data/icons/token_14_27_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_15" iconsize="1.2" GUID="NdnM8/GUnUmP6BQ5xEkDPQ==" MapID="1175" xpos="310.053" ypos="97.1204" zpos="206.142" iconfile="Data/icons/token_15_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_16_and_21_and_28_and_39" iconsize="2.2" GUID="QjO21Au4EUSBmVB4EYZuYQ==" MapID="1175" xpos="-606.645" ypos="5.68426" zpos="-497.064" iconfile="Data/icons/token_16_21_28_39_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_17" iconsize="1.2" GUID="1iwMI5oMQECX03O3L5bxtw==" MapID="1175" xpos="552.618" ypos="12.1702" zpos="-288.914" iconfile="Data/icons/token_17_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_18_and_19_and_35" iconsize="2" GUID="QLPgjk9hQ0WPZw7fWAkvBw==" MapID="1175" xpos="548.846" ypos="12.3483" zpos="-287.91" iconfile="Data/icons/token_18_19_35_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_20_and_34" iconsize="1.2" GUID="NFPFQ8Ri+U6VDdhNUZfdMw==" MapID="1175" xpos="-621.861" ypos="3.56457" zpos="-502.047" iconfile="Data/icons/token_20_34_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_22" iconsize="1.2" GUID="hqXULj6K2U2WtgrOKGSVVw==" MapID="1175" xpos="311.954" ypos="97.5748" zpos="208.478" iconfile="Data/icons/token_22_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_23_and_24" iconsize="1.6" GUID="v3WjYfjYxkSt7KvC0yp8tg==" MapID="1175" xpos="-538.796" ypos="251.552" zpos="-3.90313" iconfile="Data/icons/token_23_24_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_25" iconsize="1.2" GUID="R/dbbf5J6k26BRFHcToFsA==" MapID="1175" xpos="-618.47" ypos="3.90822" zpos="-503.829" iconfile="Data/icons/token_25_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_26" iconsize="1.2" GUID="5Uofj+bemUySJM4yU3DOhw==" MapID="1175" xpos="-576.56" ypos="115.606" zpos="-420.625" iconfile="Data/icons/token_26_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_29" iconsize="1.2" GUID="lYgm/2omDUmijcj7h77vXg==" MapID="1175" xpos="-532.325" ypos="251.194" zpos="-5.1045" iconfile="Data/icons/token_29_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_30" iconsize="1.2" GUID="nx6D8HRUUkij2EtRdTucBg==" MapID="1175" xpos="556.522" ypos="12.1613" zpos="-290.009" iconfile="Data/icons/token_30_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_31" iconsize="1.2" GUID="/2VlV6ZDE0mYsqyy2b0K9Q==" MapID="1175" xpos="-537.667" ypos="251.681" zpos="-6.89836" iconfile="Data/icons/token_31_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_32" iconsize="1.2" GUID="091u/ItBKU2ZBgEQtf0zAA==" MapID="1175" xpos="-709.662" ypos="89.2376" zpos="16.3589" iconfile="Data/icons/token_32_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_33" iconsize="1.2" GUID="/NA5/aIt8kmxAHUufHEHHg==" MapID="1175" xpos="-612.001" ypos="4.62592" zpos="-506.232" iconfile="Data/icons/token_33_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_40" iconsize="1.2" GUID="9jqE5DZA/k6yUZpMYt1t1Q==" MapID="1175" xpos="318.706" ypos="97.8627" zpos="204.742" iconfile="Data/icons/token_40_icon.png"/>
+
+			<!-- End Markers -->
+				<POI type="ffcr.eb.mtc.token_1" iconsize="1.2" GUID="MLioXOYlgUaTSAFZnxEsPQ==" MapID="1175" xpos="-81.1835" ypos="5.12823" zpos="-457.982" iconfile="Data/icons/token_1_icon.png"/>				
+				<POI type="ffcr.eb.mtc.token_2_and_3" iconsize="1.2" GUID="BO+26DhagEm1/BWb2TsJhA==" MapID="1175" xpos="230.445" ypos="19.009" zpos="-666.614" iconfile="Data/icons/token_2_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_2_and_3" iconsize="1.2" GUID="y/YXAwUa606Y8JUuDDEaRQ==" MapID="1175" xpos="257.749" ypos="32.7311" zpos="-660.401" iconfile="Data/icons/token_3_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_4" iconsize="1.2" GUID="Ni4quSpnf0i5eS7KM5uNkQ==" MapID="1175" xpos="-190" ypos="22.2972" zpos="-614.545" iconfile="Data/icons/token_4_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_5_and_8" iconsize="1.2" GUID="pDbcWqRr30a7JVbqKcR9wg==" MapID="1175" xpos="117.75" ypos="46.6438" zpos="-234.47" iconfile="Data/icons/token_5_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_6" iconsize="1.2" GUID="luPEztfRrk21bnTSEc8exA==" MapID="1175" xpos="304.027" ypos="92.1294" zpos="-77.449" iconfile="Data/icons/token_6_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_7" iconsize="1.2" GUID="LSXUllD450a1Ucji2MqBsg==" MapID="1175" xpos="22.485" ypos="65.4928" zpos="-125.034" iconfile="Data/icons/token_7_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_5_and_8" iconsize="1.2" GUID="VyGO01XrSUOTldJn24humg==" MapID="1175" xpos="63.0627" ypos="32.6642" zpos="-217.87" iconfile="Data/icons/token_8_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_9_and_38" iconsize="1.2" GUID="Ig2FfjvlbkGY2DAfrkh2PQ==" MapID="1175" xpos="-890.054" ypos="5.19632" zpos="-11.4639" iconfile="Data/icons/token_9_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_10_and_36_and_37" iconsize="1.2" GUID="QYoEL78iaEScgcS8kO2WLw==" MapID="1175" xpos="259.357" ypos="121.908" zpos="-864.295" iconfile="Data/icons/token_10_icon.png" tip-name="Token 10" tip-description="Accessible after Molten Dominator"/>
+				<POI type="ffcr.eb.mtc.token_11" iconsize="1.2" GUID="LodIfvfPSUKsrbS3cMJ/8g==" MapID="1175" xpos="-180.148" ypos="17.5641" zpos="-618.196" iconfile="Data/icons/token_11_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_12" iconsize="1.2" GUID="io4ZMcy1/Em2OMjLalZd2Q==" MapID="1175" xpos="-662.633" ypos="34.936" zpos="-830.348" iconfile="Data/icons/token_12_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_13" iconsize="1.2" GUID="elObbdCinU6fZ6LsNrn1ng==" MapID="1175" xpos="-679.423" ypos="39.124" zpos="-147.058" iconfile="Data/icons/token_13_icon.png" tip-name="Token 13" tip-description="Accessible after Sloth Queen"/>
+				<POI type="ffcr.eb.mtc.token_14_and_27" iconsize="1.2" GUID="6YypNLeVtUymJrhQT5pW1A==" MapID="1175" xpos="-203.968" ypos="132.164" zpos="-403.222" iconfile="Data/icons/token_14_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_15" iconsize="1.2" GUID="w/mX4yChEEO6m3U9M3qQMQ==" MapID="1175" xpos="-165.862" ypos="149.429" zpos="10.6418" iconfile="Data/icons/token_15_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_16_and_21_and_28_and_39" iconsize="1.2" GUID="+2MJQUSsDUyq5/c5hLIHfw==" MapID="1175" xpos="-199.235" ypos="-86.9966" zpos="-427.101" iconfile="Data/icons/token_16_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_17" iconsize="1.2" GUID="crCWk5cud0q1ONh8DrSgGA==" MapID="1175" xpos="545.782" ypos="38.2858" zpos="-429.081" iconfile="Data/icons/token_17_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_18_and_19_and_35" iconsize="1.2" GUID="EqDrGDx/HUWicmiveJieTA==" MapID="1175" xpos="334.598" ypos="1.66224" zpos="-992.94" iconfile="Data/icons/token_18_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_18_and_19_and_35" iconsize="1.2" GUID="meiFYEZmekq2WDuw6Imr6Q==" MapID="1175" xpos="373.155" ypos="-0.810922" zpos="-904.815" iconfile="Data/icons/token_19_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_20_and_34" iconsize="1.2" GUID="rJ1hRzJaDkSSVlFiYHsm5w==" MapID="1175" xpos="-652.819" ypos="89.9257" zpos="-21.2516" iconfile="Data/icons/token_20_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_16_and_21_and_28_and_39" iconsize="1.2" GUID="tBhwM6kAUUyBeZ8LXQWRTA==" MapID="1175" xpos="-252.775" ypos="12.7778" zpos="-254.111" iconfile="Data/icons/token_21_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_22" iconsize="1.2" GUID="w5CUHa2T3EWei5r7k1Op1Q==" MapID="1175" xpos="96.3491" ypos="18.1621" zpos="-135.964" iconfile="Data/icons/token_22_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_23_and_24" iconsize="1.2" GUID="0RVdFKbgVUWsT0mW1udDgw==" MapID="1175" xpos="-248.51" ypos="151.752" zpos="-45.2634" iconfile="Data/icons/token_23_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_23_and_24" iconsize="1.2" GUID="GzmC7Gk8fESolqhQq1NN+w==" MapID="1175" xpos="-229.596" ypos="181.811" zpos="-47.7315" iconfile="Data/icons/token_24_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_25" iconsize="1.2" GUID="SCy0foC0AUaUAeriBCW98g==" MapID="1175" xpos="-580.635" ypos="112.171" zpos="28.4466" iconfile="Data/icons/token_25_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_26" iconsize="1.2" GUID="ujjML62ZbkSuZ2OVcf1l8A==" MapID="1175" xpos="314.11" ypos="98.512" zpos="210.626" iconfile="Data/icons/token_26_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_14_and_27" iconsize="1.2" GUID="tmcKRMOWk0S5EAIKFQTfmA==" MapID="1175" xpos="-178.732" ypos="187.73" zpos="-432.856" iconfile="Data/icons/token_27_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_16_and_21_and_28_and_39" iconsize="1.2" GUID="yVQn2cNmlE6gLjjUoXWsHw==" MapID="1175" xpos="-517.813" ypos="4.03145" zpos="-463.671" iconfile="Data/icons/token_28_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_29" iconsize="1.2" GUID="PlR5gs9ZIEKDVcE6tHzl0Q==" MapID="1175" xpos="-445.605" ypos="179.179" zpos="-73.1428" iconfile="Data/icons/token_29_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_30" iconsize="1.2" GUID="gUhcdHHxCUG1J7JbedBufg==" MapID="1175" xpos="570.337" ypos="16.5144" zpos="-330.862" iconfile="Data/icons/token_30_icon.png" tip-name="Token 30" tip-description="Accessible after completing Igneous Breach"/>
+				<POI type="ffcr.eb.mtc.token_31" iconsize="1.2" GUID="kyaJOz71tEu5OkqXwJHBxw==" MapID="1175" xpos="-532.935" ypos="177.392" zpos="-185.413" iconfile="Data/icons/token_31_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_32" iconsize="1.2" GUID="uU9hqXuCzU2MFgIj+rAWSg==" MapID="1175" xpos="-615.145" ypos="4.32263" zpos="-505.238" iconfile="Data/icons/token_32_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_33" iconsize="1.2" GUID="tXe5GquIjEWFgKWi7WGCXQ==" MapID="1175" xpos="-603.02" ypos="75.104" zpos="-0.19134" iconfile="Data/icons/token_33_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_20_and_34" iconsize="1.6" GUID="2/evTcLN6kCc+lXwD+3upQ==" MapID="1175" xpos="-783.333" ypos="129.777" zpos="108.975" iconfile="Data/icons/token_34_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_18_and_19_and_35" iconsize="1.2" GUID="3ZOwBPaOVEeBlfWwBjanFQ==" MapID="1175" xpos="377.393" ypos="-3.71678" zpos="-984.036" iconfile="Data/icons/token_35_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_10_and_36_and_37" iconsize="1.2" GUID="ZDfo5DGOo0SG+R0yc4N3JA==" MapID="1175" xpos="343.307" ypos="94.7822" zpos="-831.851" iconfile="Data/icons/token_36_icon.png" tip-name="Token 36" tip-description="Accessible after Molten Dominator"/>
+				<POI type="ffcr.eb.mtc.token_10_and_36_and_37" iconsize="1.2" GUID="tkTFzA4aKUOTb7y3lUnJrQ==" MapID="1175" xpos="248.347" ypos="86.1264" zpos="-752.826" iconfile="Data/icons/token_37_icon.png" tip-name="Token 37" tip-description="Accessible after Molten Dominator"/>
+				<POI type="ffcr.eb.mtc.token_9_and_38" iconsize="1.6" GUID="joDXltOgh02N7N/IJovwqg==" MapID="1175" xpos="-879.081" ypos="35.2685" zpos="80.7675" iconfile="Data/icons/token_38_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_16_and_21_and_28_and_39" iconsize="1.2" GUID="xchz7Tj07kaw7bQ/A5T0SA==" MapID="1175" xpos="-166.752" ypos="45.8829" zpos="-340.159" iconfile="Data/icons/token_39_icon.png"/>
+				<POI type="ffcr.eb.mtc.token_40" iconsize="1.2" GUID="XVZE3q2I1EOIj/6VEtFvBA==" MapID="1175" xpos="815.016" ypos="4.63695" zpos="190.559" iconfile="Data/icons/token_40_icon.png"/>
+				<POI type="ffcr.eb.mtc" iconsize="2" GUID="A/E/FN4dtkuSJ7JtVJNsVQ==" MapID="1175" xpos="-616.197" ypos="0.559614" zpos="-522.809" iconFile="Data/icons/chalice_bypass.png"/>
+				<POI type="ffcr.eb.mtc" iconsize="2" GUID="4ho1CmDFXkC+T9ibN2BQSQ==" MapID="1175" xpos="-532.799" ypos="249.981" zpos="-11.0612" iconFile="Data/icons/chalice_signpost.png"/>
 
   </POIs>
 </OverlayData>

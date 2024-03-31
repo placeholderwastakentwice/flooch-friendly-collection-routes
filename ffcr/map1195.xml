@@ -3,50 +3,58 @@
   <POIs>
   
 	<!-- Draconis Mons Trails -->
-	<Trail type="ffcr.dm.ll.recording_1" GUID="Kk2cjfJ5VEiDSb6HesCZ0g==" fadeNear="-1" fadeFar="4000" color="ff00bd" trailData="Data/trails/draconis_mons/recording_trail_1.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.dm.ll.recording_2" GUID="xxdjEZMjqECZM92hgAdC2Q==" fadeNear="-1" fadeFar="4000" color="87e911" trailData="Data/trails/draconis_mons/recording_trail_2.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.dm.ll.recording_3" GUID="7WHivkhD30qbdqSDNCpVPw==" fadeNear="-1" fadeFar="4000" color="0057e9" trailData="Data/trails/draconis_mons/recording_trail_3.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.dm.ll.recording_4" GUID="N3MA/jrtGkSZgiyF34RcMg==" fadeNear="-1" fadeFar="4000" color="e11845" trailData="Data/trails/draconis_mons/recording_trail_4.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.dm.ll.recording_5" GUID="cUxdTswLl0WEzN9fReismg==" fadeNear="-1" fadeFar="4000" color="8931ef" trailData="Data/trails/draconis_mons/recording_trail_5.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.dm.ll.recording_6" GUID="EXU7T7GfoUm7wD4QYA9/9w==" fadeNear="-1" fadeFar="4000" color="fc0003" trailData="Data/trails/draconis_mons/recording_trail_6.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.dm.ll.recording_7" GUID="UM8CmYtg5U+wbg1fdf11Ag==" fadeNear="-1" fadeFar="4000" color="16eaf1" trailData="Data/trails/draconis_mons/recording_trail_7.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.dm.ll.recording_8" GUID="rZbjRfY4CUeh73/8/HpRIw==" fadeNear="-1" fadeFar="4000" color="ffc800" trailData="Data/trails/draconis_mons/recording_trail_8.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.dm.ll.recording_9" GUID="NXf/M3zGHUSyhLbfFv4F4A==" fadeNear="-1" fadeFar="4000" color="FFA500" trailData="Data/trails/draconis_mons/recording_trail_9.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.dm.ll.recording_10" GUID="Gj8gVnG6bU+hfY9kS+w0ZA==" fadeNear="-1" fadeFar="4000" color="fe6bd7" trailData="Data/trails/draconis_mons/recording_trail_10.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.dm.ll.recording_11" GUID="rxvLiEL2q0WyWNXpB0BATg==" fadeNear="-1" fadeFar="4000" color="ffff00" trailData="Data/trails/draconis_mons/recording_trail_11.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.dm.ll.recording_12" GUID="oSgIn1JT7UGnbvJGOrt4TQ==" fadeNear="-1" fadeFar="4000" color="fcd00" trailData="Data/trails/draconis_mons/recording_trail_12.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.dm.ll.recording_13" GUID="DCUUyzXVpEaQCZ854pnVcg==" fadeNear="-1" fadeFar="4000" color="2d60f9" trailData="Data/trails/draconis_mons/recording_trail_13.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.dm.ll.recording_14" GUID="innN46ySY0q4FHSB0EUzFg==" fadeNear="-1" fadeFar="4000" color="6100b0" trailData="Data/trails/draconis_mons/recording_trail_14.trl" texture="Data/trail.png"/>
+	
+		<!-- Lessons Learned -->
+			<Trail type="ffcr.dm.ll.recording_1" GUID="Kk2cjfJ5VEiDSb6HesCZ0g==" fadeNear="-1" fadeFar="4000" color="ff00bd" trailData="Data/trails/draconis_mons/lessonslearned/recording_trail_1.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.dm.ll.recording_2" GUID="xxdjEZMjqECZM92hgAdC2Q==" fadeNear="-1" fadeFar="4000" color="87e911" trailData="Data/trails/draconis_mons/lessonslearned/recording_trail_2.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.dm.ll.recording_3" GUID="7WHivkhD30qbdqSDNCpVPw==" fadeNear="-1" fadeFar="4000" color="0057e9" trailData="Data/trails/draconis_mons/lessonslearned/recording_trail_3.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.dm.ll.recording_4" GUID="N3MA/jrtGkSZgiyF34RcMg==" fadeNear="-1" fadeFar="4000" color="e11845" trailData="Data/trails/draconis_mons/lessonslearned/recording_trail_4.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.dm.ll.recording_5" GUID="cUxdTswLl0WEzN9fReismg==" fadeNear="-1" fadeFar="4000" color="8931ef" trailData="Data/trails/draconis_mons/lessonslearned/recording_trail_5.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.dm.ll.recording_6" GUID="EXU7T7GfoUm7wD4QYA9/9w==" fadeNear="-1" fadeFar="4000" color="fc0003" trailData="Data/trails/draconis_mons/lessonslearned/recording_trail_6.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.dm.ll.recording_7" GUID="UM8CmYtg5U+wbg1fdf11Ag==" fadeNear="-1" fadeFar="4000" color="16eaf1" trailData="Data/trails/draconis_mons/lessonslearned/recording_trail_7.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.dm.ll.recording_8" GUID="rZbjRfY4CUeh73/8/HpRIw==" fadeNear="-1" fadeFar="4000" color="ffc800" trailData="Data/trails/draconis_mons/lessonslearned/recording_trail_8.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.dm.ll.recording_9" GUID="NXf/M3zGHUSyhLbfFv4F4A==" fadeNear="-1" fadeFar="4000" color="FFA500" trailData="Data/trails/draconis_mons/lessonslearned/recording_trail_9.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.dm.ll.recording_10" GUID="Gj8gVnG6bU+hfY9kS+w0ZA==" fadeNear="-1" fadeFar="4000" color="fe6bd7" trailData="Data/trails/draconis_mons/lessonslearned/recording_trail_10.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.dm.ll.recording_11" GUID="rxvLiEL2q0WyWNXpB0BATg==" fadeNear="-1" fadeFar="4000" color="ffff00" trailData="Data/trails/draconis_mons/lessonslearned/recording_trail_11.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.dm.ll.recording_12" GUID="oSgIn1JT7UGnbvJGOrt4TQ==" fadeNear="-1" fadeFar="4000" color="fcd00" trailData="Data/trails/draconis_mons/lessonslearned/recording_trail_12.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.dm.ll.recording_13" GUID="DCUUyzXVpEaQCZ854pnVcg==" fadeNear="-1" fadeFar="4000" color="2d60f9" trailData="Data/trails/draconis_mons/lessonslearned/recording_trail_13.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.dm.ll.recording_14" GUID="innN46ySY0q4FHSB0EUzFg==" fadeNear="-1" fadeFar="4000" color="6100b0" trailData="Data/trails/draconis_mons/lessonslearned/recording_trail_14.trl" texture="Data/trail.png"/>
 	
 	<!-- Draconis Mons Markers -->
-	<POI type="ffcr.dm.ll.recording_1" iconsize="1.2" GUID="cW/kHUWz9E607tF1xDKEJg==" MapID="1195" xpos="318.135" ypos="417.721" zpos="60.3257" iconfile="Data/icons/token_1_icon.png"/>
-	<POI type="ffcr.dm.ll.recording_1" iconsize="1.2" GUID="Snx8/CEOFU6wOG7A7ne/vw==" MapID="1195" xpos="400.588" ypos="410.804" zpos="-315.477" iconfile="Data/icons/token_1_icon.png"/>
-	<POI type="ffcr.dm.ll.recording_2" iconsize="1.2" GUID="DJ82MP7pbUec/+KFn76XDA==" MapID="1195" xpos="-244.487" ypos="413.052" zpos="-430.707" iconfile="Data/icons/token_2_icon.png"/>
-	<POI type="ffcr.dm.ll.recording_2" iconsize="1.2" GUID="RzcS54mYW02JSvYC+8cHKg==" MapID="1195" xpos="-42.2679" ypos="253.578" zpos="104.48" iconfile="Data/icons/token_2_icon.png"/>
-	<POI type="ffcr.dm.ll.recording_3" iconsize="1.2" GUID="GpcrfPDqdE+rpVd2O5yCSQ==" MapID="1195" xpos="-374.984" ypos="436.208" zpos="-436.359" iconfile="Data/icons/token_3_icon.png"/>
-	<POI type="ffcr.dm.ll.recording_3" iconsize="1.2" GUID="HheANBFUvUuC1dKTy6jDwg==" MapID="1195" xpos="-40.9779" ypos="253.852" zpos="107.189" iconfile="Data/icons/token_3_icon.png"/>
-	<POI type="ffcr.dm.ll.recording_4" iconsize="1.2" GUID="fm25aJRauEiSJlAUacWJvg==" MapID="1195" xpos="354.803" ypos="429.788" zpos="13.9074" iconfile="Data/icons/token_4_icon.png"/>
-	<POI type="ffcr.dm.ll.recording_4" iconsize="1.2" GUID="PGq2qZqkVkSl9z6+WSsYbw==" MapID="1195" xpos="397.845" ypos="411.3" zpos="-313.803" iconfile="Data/icons/token_4_icon.png"/>
-	<POI type="ffcr.dm.ll.recording_5" iconsize="1.2" GUID="r1PrggcSWESXktvVRBjOQg==" MapID="1195" xpos="310.562" ypos="431.667" zpos="-1.95252" iconfile="Data/icons/token_5_icon.png"/>
-	<POI type="ffcr.dm.ll.recording_5" iconsize="1.2" GUID="F3O5s7G9+kGpm08gU1psvQ==" MapID="1195" xpos="395.244" ypos="411.924" zpos="-312.215" iconfile="Data/icons/token_5_icon.png"/>
-	<POI type="ffcr.dm.ll.recording_6" iconsize="1.2" GUID="QMSgzumu8U2KmoIxE5pKnA==" MapID="1195" xpos="17.6475" ypos="327.651" zpos="-1013.17" iconfile="Data/icons/token_6_icon.png"/>
-	<POI type="ffcr.dm.ll.recording_6" iconsize="1.2" GUID="CXzcNkkQYUem0rJtX5tf3A==" MapID="1195" xpos="415.69" ypos="409.61" zpos="-316.81" iconfile="Data/icons/token_6_icon.png"/>
-	<POI type="ffcr.dm.ll.recording_7" iconsize="1.2" GUID="J+xwTPkTWUGrrJq7sYaIcA==" MapID="1195" xpos="135.379" ypos="277.107" zpos="252.404" iconfile="Data/icons/token_7_icon.png"/>
-	<POI type="ffcr.dm.ll.recording_7" iconsize="1.2" GUID="ur6rCbZpg0SKwy42bzEk3A==" MapID="1195" xpos="-24.8007" ypos="253.07" zpos="114.025" iconfile="Data/icons/token_7_icon.png"/>
-	<POI type="ffcr.dm.ll.recording_8" iconsize="1.2" GUID="qfZgH/xT406JCxmQJbdSUg==" MapID="1195" xpos="-360.868" ypos="506.413" zpos="49.5154" iconfile="Data/icons/token_8_icon.png"/>
-	<POI type="ffcr.dm.ll.recording_8" iconsize="1.2" GUID="iqUoNECjw0O8VlttstVHyQ==" MapID="1195" xpos="-40.335" ypos="253.919" zpos="110.563" iconfile="Data/icons/token_8_icon.png"/>
-	<POI type="ffcr.dm.ll.recording_9" iconsize="1.2" GUID="hoU0YFV0FUul8bYX126huQ==" MapID="1195" xpos="558.955" ypos="340.884" zpos="-132.237" iconfile="Data/icons/token_9_icon.png"/>
-	<POI type="ffcr.dm.ll.recording_9" iconsize="1.2" GUID="fJ8xj36qEkSnysPqqosJ9Q==" MapID="1195" xpos="392.782" ypos="412.409" zpos="-310.71" iconfile="Data/icons/token_9_icon.png"/>
-	<POI type="ffcr.dm.ll.recording_10" iconsize="1.2" GUID="IZg49LyCoE6FnSDVMtKapQ==" MapID="1195" xpos="-167.294" ypos="247.385" zpos="215.264" iconfile="Data/icons/token_10_icon.png"/>
-	<POI type="ffcr.dm.ll.recording_10" iconsize="1.2" GUID="j1kWMRKP4UqI9lGfmggIhA==" MapID="1195" xpos="-31.0605" ypos="253.206" zpos="119.529" iconfile="Data/icons/token_10_icon.png"/>
-	<POI type="ffcr.dm.ll.recording_11" iconsize="1.2" GUID="uKaO/EjYf0mDZRjDzAUDkg==" MapID="1195" xpos="335.323" ypos="205.212" zpos="-589.41" iconfile="Data/icons/token_11_icon.png"/>
-	<POI type="ffcr.dm.ll.recording_11" iconsize="1.2" GUID="iqX5gA97z0CNZTS+fnmQ6A==" MapID="1195" xpos="424.094" ypos="409.442" zpos="-315.782" iconfile="Data/icons/token_11_icon.png"/>
-	<POI type="ffcr.dm.ll.recording_12" iconsize="1.2" GUID="9R0Z5jh7806yegxBR6OLog==" MapID="1195" xpos="203.641" ypos="517.192" zpos="159.276" iconfile="Data/icons/token_12_icon.png"/>
-	<POI type="ffcr.dm.ll.recording_12" iconsize="1.2" GUID="qB21FvRxhEqSI9Uspl3ktw==" MapID="1195" xpos="403.795" ypos="410.811" zpos="-317.176" iconfile="Data/icons/token_12_icon.png"/>
-	<POI type="ffcr.dm.ll.recording_13" iconsize="1.2" GUID="0FBw7VCsZ0WNXwBVv4XhAw==" MapID="1195" xpos="228.94" ypos="246.347" zpos="-907.405" iconfile="Data/icons/token_13_icon.png"/>
-	<POI type="ffcr.dm.ll.recording_13" iconsize="1.2" GUID="vVbL/x3eP0eOAB41nnfWUA==" MapID="1195" xpos="419.508" ypos="409.175" zpos="-316.406" iconfile="Data/icons/token_13_icon.png"/>
-	<POI type="ffcr.dm.ll.recording_14" iconsize="1.2" GUID="sjpgqDGlcUieiLdcejiEfA==" MapID="1195" xpos="-319.187" ypos="359.875" zpos="65.2202" iconfile="Data/icons/token_14_icon.png"/>
-	<POI type="ffcr.dm.ll.recording_14" iconsize="1.2" GUID="2lQtpqyjHUOixzcvj8IdKQ==" MapID="1195" xpos="-27.5116" ypos="253.015" zpos="118.023" iconfile="Data/icons/token_14_icon.png"/>
 	
+		<!-- Lessons Learned -->
+		
+			<!-- Start Markers -->
+				<POI type="ffcr.dm.ll.recording_1" iconsize="1.2" GUID="cW/kHUWz9E607tF1xDKEJg==" MapID="1195" xpos="318.135" ypos="417.721" zpos="60.3257" iconfile="Data/icons/token_1_icon.png"/>
+				<POI type="ffcr.dm.ll.recording_2" iconsize="1.2" GUID="DJ82MP7pbUec/+KFn76XDA==" MapID="1195" xpos="-244.487" ypos="413.052" zpos="-430.707" iconfile="Data/icons/token_2_icon.png"/>
+				<POI type="ffcr.dm.ll.recording_3" iconsize="1.2" GUID="GpcrfPDqdE+rpVd2O5yCSQ==" MapID="1195" xpos="-374.984" ypos="436.208" zpos="-436.359" iconfile="Data/icons/token_3_icon.png"/>
+				<POI type="ffcr.dm.ll.recording_4" iconsize="1.2" GUID="fm25aJRauEiSJlAUacWJvg==" MapID="1195" xpos="354.803" ypos="429.788" zpos="13.9074" iconfile="Data/icons/token_4_icon.png"/>
+				<POI type="ffcr.dm.ll.recording_5" iconsize="1.2" GUID="r1PrggcSWESXktvVRBjOQg==" MapID="1195" xpos="310.562" ypos="431.667" zpos="-1.95252" iconfile="Data/icons/token_5_icon.png"/>
+				<POI type="ffcr.dm.ll.recording_6" iconsize="1.2" GUID="QMSgzumu8U2KmoIxE5pKnA==" MapID="1195" xpos="17.6475" ypos="327.651" zpos="-1013.17" iconfile="Data/icons/token_6_icon.png"/>
+				<POI type="ffcr.dm.ll.recording_7" iconsize="1.2" GUID="J+xwTPkTWUGrrJq7sYaIcA==" MapID="1195" xpos="135.379" ypos="277.107" zpos="252.404" iconfile="Data/icons/token_7_icon.png"/>
+				<POI type="ffcr.dm.ll.recording_8" iconsize="1.2" GUID="qfZgH/xT406JCxmQJbdSUg==" MapID="1195" xpos="-360.868" ypos="506.413" zpos="49.5154" iconfile="Data/icons/token_8_icon.png"/>
+				<POI type="ffcr.dm.ll.recording_9" iconsize="1.2" GUID="hoU0YFV0FUul8bYX126huQ==" MapID="1195" xpos="558.955" ypos="340.884" zpos="-132.237" iconfile="Data/icons/token_9_icon.png"/>
+				<POI type="ffcr.dm.ll.recording_10" iconsize="1.2" GUID="IZg49LyCoE6FnSDVMtKapQ==" MapID="1195" xpos="-167.294" ypos="247.385" zpos="215.264" iconfile="Data/icons/token_10_icon.png"/>
+				<POI type="ffcr.dm.ll.recording_11" iconsize="1.2" GUID="uKaO/EjYf0mDZRjDzAUDkg==" MapID="1195" xpos="335.323" ypos="205.212" zpos="-589.41" iconfile="Data/icons/token_11_icon.png"/>
+				<POI type="ffcr.dm.ll.recording_12" iconsize="1.2" GUID="9R0Z5jh7806yegxBR6OLog==" MapID="1195" xpos="203.641" ypos="517.192" zpos="159.276" iconfile="Data/icons/token_12_icon.png"/>
+				<POI type="ffcr.dm.ll.recording_13" iconsize="1.2" GUID="0FBw7VCsZ0WNXwBVv4XhAw==" MapID="1195" xpos="228.94" ypos="246.347" zpos="-907.405" iconfile="Data/icons/token_13_icon.png"/>
+				<POI type="ffcr.dm.ll.recording_14" iconsize="1.2" GUID="sjpgqDGlcUieiLdcejiEfA==" MapID="1195" xpos="-319.187" ypos="359.875" zpos="65.2202" iconfile="Data/icons/token_14_icon.png"/>
+			
+			<!-- End Markers -->
+				<POI type="ffcr.dm.ll.recording_1" iconsize="1.2" GUID="Snx8/CEOFU6wOG7A7ne/vw==" MapID="1195" xpos="400.588" ypos="410.804" zpos="-315.477" iconfile="Data/icons/token_1_icon.png"/>
+				<POI type="ffcr.dm.ll.recording_2" iconsize="1.2" GUID="RzcS54mYW02JSvYC+8cHKg==" MapID="1195" xpos="-42.2679" ypos="253.578" zpos="104.48" iconfile="Data/icons/token_2_icon.png"/>
+				<POI type="ffcr.dm.ll.recording_3" iconsize="1.2" GUID="HheANBFUvUuC1dKTy6jDwg==" MapID="1195" xpos="-40.9779" ypos="253.852" zpos="107.189" iconfile="Data/icons/token_3_icon.png"/>
+				<POI type="ffcr.dm.ll.recording_4" iconsize="1.2" GUID="PGq2qZqkVkSl9z6+WSsYbw==" MapID="1195" xpos="397.845" ypos="411.3" zpos="-313.803" iconfile="Data/icons/token_4_icon.png"/>
+				<POI type="ffcr.dm.ll.recording_5" iconsize="1.2" GUID="F3O5s7G9+kGpm08gU1psvQ==" MapID="1195" xpos="395.244" ypos="411.924" zpos="-312.215" iconfile="Data/icons/token_5_icon.png"/>
+				<POI type="ffcr.dm.ll.recording_6" iconsize="1.2" GUID="CXzcNkkQYUem0rJtX5tf3A==" MapID="1195" xpos="415.69" ypos="409.61" zpos="-316.81" iconfile="Data/icons/token_6_icon.png"/>
+				<POI type="ffcr.dm.ll.recording_7" iconsize="1.2" GUID="ur6rCbZpg0SKwy42bzEk3A==" MapID="1195" xpos="-24.8007" ypos="253.07" zpos="114.025" iconfile="Data/icons/token_7_icon.png"/>
+				<POI type="ffcr.dm.ll.recording_8" iconsize="1.2" GUID="iqUoNECjw0O8VlttstVHyQ==" MapID="1195" xpos="-40.335" ypos="253.919" zpos="110.563" iconfile="Data/icons/token_8_icon.png"/>
+				<POI type="ffcr.dm.ll.recording_9" iconsize="1.2" GUID="fJ8xj36qEkSnysPqqosJ9Q==" MapID="1195" xpos="392.782" ypos="412.409" zpos="-310.71" iconfile="Data/icons/token_9_icon.png"/>
+				<POI type="ffcr.dm.ll.recording_10" iconsize="1.2" GUID="j1kWMRKP4UqI9lGfmggIhA==" MapID="1195" xpos="-31.0605" ypos="253.206" zpos="119.529" iconfile="Data/icons/token_10_icon.png"/>
+				<POI type="ffcr.dm.ll.recording_11" iconsize="1.2" GUID="iqX5gA97z0CNZTS+fnmQ6A==" MapID="1195" xpos="424.094" ypos="409.442" zpos="-315.782" iconfile="Data/icons/token_11_icon.png"/>
+				<POI type="ffcr.dm.ll.recording_12" iconsize="1.2" GUID="qB21FvRxhEqSI9Uspl3ktw==" MapID="1195" xpos="403.795" ypos="410.811" zpos="-317.176" iconfile="Data/icons/token_12_icon.png"/>
+				<POI type="ffcr.dm.ll.recording_13" iconsize="1.2" GUID="vVbL/x3eP0eOAB41nnfWUA==" MapID="1195" xpos="419.508" ypos="409.175" zpos="-316.406" iconfile="Data/icons/token_13_icon.png"/>
+				<POI type="ffcr.dm.ll.recording_14" iconsize="1.2" GUID="2lQtpqyjHUOixzcvj8IdKQ==" MapID="1195" xpos="-27.5116" ypos="253.015" zpos="118.023" iconfile="Data/icons/token_14_icon.png"/>
+
   </POIs>
 </OverlayData>

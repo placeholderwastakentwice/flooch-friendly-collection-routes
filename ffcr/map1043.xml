@@ -3,59 +3,150 @@
   <POIs>
   
 	<!-- Auric Basin Trails -->
-	<Trail type="ffcr.ab.asig.tablet_1" GUID="quUNnYm1Jk64FKHfvb6OHQ==" fadeNear="-1" fadeFar="4000" color="8931ef" trailData="Data/trails/auric_basin/tablet_trail_1.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.ab.asig.tablet_2" GUID="f7Q7rYvAQUesOey4e0mK/A==" fadeNear="-1" fadeFar="4000" color="0057e9" trailData="Data/trails/auric_basin/tablet_trail_2.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.ab.asig.tablet_3" GUID="yqSOxnTL902JKTThvCQXRQ==" fadeNear="-1" fadeFar="4000" color="e11845" trailData="Data/trails/auric_basin/tablet_trail_3.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.ab.asig.tablet_4" GUID="0Z3mCz6UkU2D2pO723Romg==" fadeNear="-1" fadeFar="4000" color="f2ca19" trailData="Data/trails/auric_basin/tablet_trail_4.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.ab.asig.tablet_5" GUID="mWh1bE0WUUq3VSNyI/CLZA==" fadeNear="-1" fadeFar="4000" color="ff00bd" trailData="Data/trails/auric_basin/tablet_trail_5.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.ab.asig.tablet_6" GUID="WunvgmtyxEa7i1kNWvK/eQ==" fadeNear="-1" fadeFar="4000" color="87e911" trailData="Data/trails/auric_basin/tablet_trail_6.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.ab.asig.tablet_7" GUID="MOZHkbGwXEKxqUyqYefbWw==" fadeNear="-1" fadeFar="4000" color="8931ef" trailData="Data/trails/auric_basin/tablet_trail_7.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.ab.asig.tablet_8" GUID="6EVilOdd0US8IOlCeIG+qQ==" fadeNear="-1" fadeFar="4000" color="f2ca19" trailData="Data/trails/auric_basin/tablet_trail_8.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.ab.asig.tablet_9" GUID="3hqXLQQo+02fH4BVCWmt4w==" fadeNear="-1" fadeFar="4000" color="f2ca19" trailData="Data/trails/auric_basin/tablet_trail_9.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.ab.asig.tablet_10" GUID="yT+eFIgLskGnNXpFwZwy3w==" fadeNear="-1" fadeFar="4000" color="87e911" trailData="Data/trails/auric_basin/tablet_trail_10.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.ab.asig.tablet_11" GUID="kunmqZ5f+0WdQRoMoDX1VA==" fadeNear="-1" fadeFar="4000" color="e11845" trailData="Data/trails/auric_basin/tablet_trail_11.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.ab.asig.tablet_12" GUID="8FWUCgFgtUWYTSNcWBYwGA==" fadeNear="-1" fadeFar="4000" color="e11845" trailData="Data/trails/auric_basin/tablet_trail_12.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.ab.asig.tablet_13" GUID="/R1b35TSlk6Rta5qPjIPsg==" fadeNear="-1" fadeFar="4000" color="87e911" trailData="Data/trails/auric_basin/tablet_trail_13.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.ab.asig.tablet_14" GUID="ONOp8ogJbUKdMOaU2+Vl8g==" fadeNear="-1" fadeFar="4000" color="ff00bd" trailData="Data/trails/auric_basin/tablet_trail_14.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.ab.asig.tablet_15" GUID="EHKF5pxa00eR+yeVBe2CjQ==" fadeNear="-1" fadeFar="4000" color="e11845" trailData="Data/trails/auric_basin/tablet_trail_15.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.ab.asig.tablet_16" GUID="BGrThoNPN0esGN05hvh7gQ==" fadeNear="-1" fadeFar="4000" color="87e911" trailData="Data/trails/auric_basin/tablet_trail_16.trl" texture="Data/trail.png"/>
-	<Trail type="ffcr.ab.asig.tablet_17" GUID="+1YU8nNKb06+kBP/pWoeQw==" fadeNear="-1" fadeFar="4000" color="f2ca19" trailData="Data/trails/auric_basin/tablet_trail_17.trl" texture="Data/trail.png"/>
+	
+		<!-- A Study In Gold -->
+			<Trail type="ffcr.ab.asig.tablet_1" GUID="quUNnYm1Jk64FKHfvb6OHQ==" fadeNear="-1" fadeFar="4000" color="8931ef" trailData="Data/trails/auric_basin/astudyingold/tablet_trail_1.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.asig.tablet_2" GUID="f7Q7rYvAQUesOey4e0mK/A==" fadeNear="-1" fadeFar="4000" color="0057e9" trailData="Data/trails/auric_basin/astudyingold/tablet_trail_2.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.asig.tablet_3" GUID="yqSOxnTL902JKTThvCQXRQ==" fadeNear="-1" fadeFar="4000" color="e11845" trailData="Data/trails/auric_basin/astudyingold/tablet_trail_3.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.asig.tablet_4" GUID="0Z3mCz6UkU2D2pO723Romg==" fadeNear="-1" fadeFar="4000" color="f2ca19" trailData="Data/trails/auric_basin/astudyingold/tablet_trail_4.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.asig.tablet_5" GUID="mWh1bE0WUUq3VSNyI/CLZA==" fadeNear="-1" fadeFar="4000" color="ff00bd" trailData="Data/trails/auric_basin/astudyingold/tablet_trail_5.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.asig.tablet_6" GUID="WunvgmtyxEa7i1kNWvK/eQ==" fadeNear="-1" fadeFar="4000" color="87e911" trailData="Data/trails/auric_basin/astudyingold/tablet_trail_6.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.asig.tablet_7" GUID="MOZHkbGwXEKxqUyqYefbWw==" fadeNear="-1" fadeFar="4000" color="8931ef" trailData="Data/trails/auric_basin/astudyingold/tablet_trail_7.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.asig.tablet_8" GUID="6EVilOdd0US8IOlCeIG+qQ==" fadeNear="-1" fadeFar="4000" color="f2ca19" trailData="Data/trails/auric_basin/astudyingold/tablet_trail_8.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.asig.tablet_9" GUID="3hqXLQQo+02fH4BVCWmt4w==" fadeNear="-1" fadeFar="4000" color="f2ca19" trailData="Data/trails/auric_basin/astudyingold/tablet_trail_9.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.asig.tablet_10" GUID="yT+eFIgLskGnNXpFwZwy3w==" fadeNear="-1" fadeFar="4000" color="87e911" trailData="Data/trails/auric_basin/astudyingold/tablet_trail_10.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.asig.tablet_11" GUID="kunmqZ5f+0WdQRoMoDX1VA==" fadeNear="-1" fadeFar="4000" color="e11845" trailData="Data/trails/auric_basin/astudyingold/tablet_trail_11.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.asig.tablet_12" GUID="8FWUCgFgtUWYTSNcWBYwGA==" fadeNear="-1" fadeFar="4000" color="e11845" trailData="Data/trails/auric_basin/astudyingold/tablet_trail_12.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.asig.tablet_13" GUID="/R1b35TSlk6Rta5qPjIPsg==" fadeNear="-1" fadeFar="4000" color="87e911" trailData="Data/trails/auric_basin/astudyingold/tablet_trail_13.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.asig.tablet_14" GUID="ONOp8ogJbUKdMOaU2+Vl8g==" fadeNear="-1" fadeFar="4000" color="ff00bd" trailData="Data/trails/auric_basin/astudyingold/tablet_trail_14.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.asig.tablet_15" GUID="EHKF5pxa00eR+yeVBe2CjQ==" fadeNear="-1" fadeFar="4000" color="e11845" trailData="Data/trails/auric_basin/astudyingold/tablet_trail_15.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.asig.tablet_16" GUID="BGrThoNPN0esGN05hvh7gQ==" fadeNear="-1" fadeFar="4000" color="87e911" trailData="Data/trails/auric_basin/astudyingold/tablet_trail_16.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.asig.tablet_17" GUID="+1YU8nNKb06+kBP/pWoeQw==" fadeNear="-1" fadeFar="4000" color="f2ca19" trailData="Data/trails/auric_basin/astudyingold/tablet_trail_17.trl" texture="Data/trail.png"/>
+		
+		<!-- No Mask Left Behind -->
+			<Trail type="ffcr.ab.nmlb.mask_1" GUID="4ziGY8TibUKE24zZVmNZxw==" fadeNear="-1" fadeFar="4000" color="87e911" trailData="Data/trails/auric_basin/nomaskleftbehind/mask_trail_1.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.nmlb.mask_2" GUID="R7sFOAis2U2upuGbGDoUzw==" fadeNear="-1" fadeFar="4000" color="87e911" trailData="Data/trails/auric_basin/nomaskleftbehind/mask_trail_2.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.nmlb.mask_3" GUID="+oDY3nA/LEmoPKhl7kXltQ==" fadeNear="-1" fadeFar="4000" color="e11845" trailData="Data/trails/auric_basin/nomaskleftbehind/mask_trail_3.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.nmlb.mask_4" GUID="r6LXoh+pI0q9Kv4gA1UTfw==" fadeNear="-1" fadeFar="4000" color="87e911" trailData="Data/trails/auric_basin/nomaskleftbehind/mask_trail_4.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.nmlb.mask_5" GUID="x14U92StVEWGBXnG+DdNvQ==" fadeNear="-1" fadeFar="4000" color="0057e9" trailData="Data/trails/auric_basin/nomaskleftbehind/mask_trail_5.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.nmlb.mask_6" GUID="1HecVMvSSUq/bNa33fRtrQ==" fadeNear="-1" fadeFar="4000" color="f2ca19" trailData="Data/trails/auric_basin/nomaskleftbehind/mask_trail_6.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.nmlb.mask_7" GUID="a32MgMWDsEKj+aTWkmFiOw==" fadeNear="-1" fadeFar="4000" color="8931ef" trailData="Data/trails/auric_basin/nomaskleftbehind/mask_trail_7.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.nmlb.mask_8" GUID="Y7+OLO0qPk+ZkFjD1aqLSA==" fadeNear="-1" fadeFar="4000" color="f2ca19" trailData="Data/trails/auric_basin/nomaskleftbehind/mask_trail_8.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.nmlb.mask_9" GUID="kZe55zVAIUerqigUgUBvmw==" fadeNear="-1" fadeFar="4000" color="87e911" trailData="Data/trails/auric_basin/nomaskleftbehind/mask_trail_9.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.nmlb.mask_10" GUID="6YmBveaAzUS25OmVAB8RgA==" fadeNear="-1" fadeFar="4000" color="f2ca19" trailData="Data/trails/auric_basin/nomaskleftbehind/mask_trail_10.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.nmlb.mask_11" GUID="2C0xpG8HoEiQLDNSxsJaXg==" fadeNear="-1" fadeFar="4000" color="e11845" trailData="Data/trails/auric_basin/nomaskleftbehind/mask_trail_11.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.nmlb.mask_12" GUID="IxP62ODs1kORBjfK3C4i+g==" fadeNear="-1" fadeFar="4000" color="8931ef" trailData="Data/trails/auric_basin/nomaskleftbehind/mask_trail_12.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.nmlb.mask_13" GUID="sOXpZqc7NkemQDHHgrc/Pg==" fadeNear="-1" fadeFar="4000" color="f2ca19" trailData="Data/trails/auric_basin/nomaskleftbehind/mask_trail_13.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.nmlb.mask_14" GUID="+MCKML+QlkiXMPMYve24lw==" fadeNear="-1" fadeFar="4000" color="0057e9" trailData="Data/trails/auric_basin/nomaskleftbehind/mask_trail_14.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.nmlb.mask_15" GUID="kKUdM8eT8USk2ozhPjka3g==" fadeNear="-1" fadeFar="4000" color="8931ef" trailData="Data/trails/auric_basin/nomaskleftbehind/mask_trail_15.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.nmlb.mask_16" GUID="jCLO01pEq0+Zhfo7kUKfOg==" fadeNear="-1" fadeFar="4000" color="ffa500" trailData="Data/trails/auric_basin/nomaskleftbehind/mask_trail_16.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.nmlb.mask_17" GUID="3AeDhJuJ4UOQTW8dGUFA6Q==" fadeNear="-1" fadeFar="4000" color="8931ef" trailData="Data/trails/auric_basin/nomaskleftbehind/mask_trail_17.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.nmlb.mask_18" GUID="CdEW2SU1WUu+b/2pm99t6A==" fadeNear="-1" fadeFar="4000" color="8931ef" trailData="Data/trails/auric_basin/nomaskleftbehind/mask_trail_18.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.nmlb.mask_19" GUID="65ZXwj9Lu0+FCUEVvLZcjA==" fadeNear="-1" fadeFar="4000" color="ffa500" trailData="Data/trails/auric_basin/nomaskleftbehind/mask_trail_19.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.nmlb.mask_20" GUID="Yb2aFFXE1USsbD3W4/8QSQ==" fadeNear="-1" fadeFar="4000" color="e11845" trailData="Data/trails/auric_basin/nomaskleftbehind/mask_trail_20.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.nmlb.mask_21" GUID="F498xxgqxkG72PPpxTOW8w==" fadeNear="-1" fadeFar="4000" color="ff00bd" trailData="Data/trails/auric_basin/nomaskleftbehind/mask_trail_21.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.nmlb.mask_22" GUID="pEcVUAsrCkuE2/RgsOLD4w==" fadeNear="-1" fadeFar="4000" color="e11845" trailData="Data/trails/auric_basin/nomaskleftbehind/mask_trail_22.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.nmlb.mask_23" GUID="2DltdGZdP0WNvNpxCnA0ng==" fadeNear="-1" fadeFar="4000" color="87e911" trailData="Data/trails/auric_basin/nomaskleftbehind/mask_trail_23.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.nmlb.mask_24" GUID="bnB3AD2PIkO8mx2g08fLyA==" fadeNear="-1" fadeFar="4000" color="8931ef" trailData="Data/trails/auric_basin/nomaskleftbehind/mask_trail_24.trl" texture="Data/trail.png"/>
+			<Trail type="ffcr.ab.nmlb.mask_25" GUID="9YFQF54KbkCwNPSivsC7qA==" fadeNear="-1" fadeFar="4000" color="ffa500" trailData="Data/trails/auric_basin/nomaskleftbehind/mask_trail_25.trl" texture="Data/trail.png"/>
 	
 	<!-- Auric Basin Markers -->
-	<POI type="ffcr.ab.asig.tablet_1" iconsize="1.2" GUID="H5z70SVLn0GC2XetBAEpTQ==" MapID="1043" xpos="-234.65" ypos="231.013" zpos="-92.7356" iconfile="Data/icons/token_1_icon.png"/>
-	<POI type="ffcr.ab.asig.tablet_1" iconsize="1.2" GUID="nFQRtF1XtUKwr+UTaAHdpA==" MapID="1043" xpos="-364.909" ypos="271.191" zpos="249.278" iconfile="Data/icons/token_1_icon.png"/>
-	<POI type="ffcr.ab.asig.tablet_2" iconsize="1.2" GUID="KRwk5NkSKE6Zq2bubQR8lQ==" MapID="1043" xpos="-39.8006" ypos="127.072" zpos="-39.9114" iconfile="Data/icons/token_2_icon.png"/>
-	<POI type="ffcr.ab.asig.tablet_2" iconsize="1.2" GUID="YLIKk1FE0UmS+WlqJkSuQw==" MapID="1043" xpos="-54.0449" ypos="266.81" zpos="-399.776" iconfile="Data/icons/token_2_icon.png"/>
-	<POI type="ffcr.ab.asig.tablet_3" iconsize="1.2" GUID="KkrTHVKtmE2IXBL6klM3Dw==" MapID="1043" xpos="39.6912" ypos="127.072" zpos="-39.7625" iconfile="Data/icons/token_3_icon.png"/>
-	<POI type="ffcr.ab.asig.tablet_3" iconsize="1.2" GUID="GyX5mOf1rUCgLASjgb9ihQ==" MapID="1043" xpos="-56.73" ypos="267.582" zpos="-398.302" iconfile="Data/icons/token_3_icon.png"/>
-	<POI type="ffcr.ab.asig.tablet_4" iconsize="1.2" GUID="OOsjvRlOrEizv23SLV26UQ==" MapID="1043" xpos="-40.3842" ypos="127.072" zpos="40.996" iconfile="Data/icons/token_4_icon.png"/>
-	<POI type="ffcr.ab.asig.tablet_4" iconsize="1.2" GUID="JFxHIR3iy0imq07Uex06zA==" MapID="1043" xpos="55.7881" ypos="332.108" zpos="472.249" iconfile="Data/icons/token_4_icon.png"/>
-	<POI type="ffcr.ab.asig.tablet_5" iconsize="1.2" GUID="jlabIuuuMUWfOb/Faas+dw==" MapID="1043" xpos="137.148" ypos="173.619" zpos="209.039" iconfile="Data/icons/token_5_icon.png"/>
-	<POI type="ffcr.ab.asig.tablet_5" iconsize="1.2" GUID="jByZTHGy6ES+RNDH/Pk7ew==" MapID="1043" xpos="55.8862" ypos="331.582" zpos="475.494" iconfile="Data/icons/token_5_icon.png"/>
-	<POI type="ffcr.ab.asig.tablet_6" iconsize="1.2" GUID="955BZBUfcU+AOJs9ghQ2jg==" MapID="1043" xpos="350.387" ypos="154.996" zpos="-25.7175" iconfile="Data/icons/token_6_icon.png"/>
-	<POI type="ffcr.ab.asig.tablet_6" iconsize="1.2" GUID="xBeEz4m6Uke0PkzV1XS7/g==" MapID="1043" xpos="458.142" ypos="292.141" zpos="68.1979" iconfile="Data/icons/token_6_icon.png"/>
-	<POI type="ffcr.ab.asig.tablet_7" iconsize="1.2" GUID="Sci7jPepf0aW0e9TN01zsw==" MapID="1043" xpos="156.525" ypos="153.858" zpos="-83.6727" iconfile="Data/icons/token_7_icon.png"/>
-	<POI type="ffcr.ab.asig.tablet_7" iconsize="1.2" GUID="sIi0tAykoU+pgV11xryFDw==" MapID="1043" xpos="-51.2955" ypos="266.703" zpos="-401.42" iconfile="Data/icons/token_7_icon.png"/>
-	<POI type="ffcr.ab.asig.tablet_8" iconsize="1.2" GUID="4dwKuNR2jEeW1S5gFtIkbg==" MapID="1043" xpos="-201.665" ypos="184.911" zpos="-220.337" iconfile="Data/icons/token_8_icon.png"/>
-	<POI type="ffcr.ab.asig.tablet_8" iconsize="1.2" GUID="BnmIg2cXJ0ql/nXHh3mxbA==" MapID="1043" xpos="-48.0045" ypos="267.393" zpos="-402.844" iconfile="Data/icons/token_8_icon.png"/>
-	<POI type="ffcr.ab.asig.tablet_9" iconsize="1.2" GUID="72dELy3cLkSgXa6G30Aj0w==" MapID="1043" xpos="-198.306" ypos="158.417" zpos="95.0875" iconfile="Data/icons/token_9_icon.png"/>
-	<POI type="ffcr.ab.asig.tablet_9" iconsize="1.2" GUID="MwOAMuamGEavv6M6Hm3GWQ==" MapID="1043" xpos="-358.524" ypos="271.252" zpos="248.86" iconfile="Data/icons/token_9_icon.png"/>
-	<POI type="ffcr.ab.asig.tablet_10" iconsize="1.2" GUID="mFmk1THLdUmIfTq7kTcDJw==" MapID="1043" xpos="0.258724" ypos="246.056" zpos="-241.639" iconfile="Data/icons/token_10_icon.png"/>
-	<POI type="ffcr.ab.asig.tablet_10" iconsize="1.2" GUID="QKPunvNxuEe96AuwXzA/jA==" MapID="1043" xpos="-44.6468" ypos="268.002" zpos="-404.332" iconfile="Data/icons/token_10_icon.png"/>
-	<POI type="ffcr.ab.asig.tablet_11" iconsize="1.2" GUID="jmLwM+bdtUCWx2aGXmH5vg==" MapID="1043" xpos="0.785309" ypos="279.643" zpos="200.489" iconfile="Data/icons/token_11_icon.png"/>
-	<POI type="ffcr.ab.asig.tablet_11" iconsize="1.2" GUID="ABHEe3rZZUSPLULoB4thaA==" MapID="1043" xpos="56.3714" ypos="332.605" zpos="468.901" iconfile="Data/icons/token_11_icon.png"/>
-	<POI type="ffcr.ab.asig.tablet_12" iconsize="1.2" GUID="EAzkENxecU+oeqmeXk3o9A==" MapID="1043" xpos="-189.366" ypos="267.664" zpos="-207.367" iconfile="Data/icons/token_12_icon.png"/>
-	<POI type="ffcr.ab.asig.tablet_12" iconsize="1.2" GUID="bPVf2xpk9k2Wmo7VvmmZlg==" MapID="1043" xpos="-360.401" ypos="270.417" zpos="243.119" iconfile="Data/icons/token_12_icon.png"/>
-	<POI type="ffcr.ab.asig.tablet_13" iconsize="1.2" GUID="JTaZ3AN8FE2vFF3Eymy1gw==" MapID="1043" xpos="-214.602" ypos="312.197" zpos="32.0561" iconfile="Data/icons/token_13_icon.png"/>
-	<POI type="ffcr.ab.asig.tablet_13" iconsize="1.2" GUID="sQezlf+rCku3qC5fPt86oQ==" MapID="1043" xpos="-359.227" ypos="270.382" zpos="245.948" iconfile="Data/icons/token_13_icon.png"/>
-	<POI type="ffcr.ab.asig.tablet_14" iconsize="1.2" GUID="pPqoMFys/0686HttSwvwwA==" MapID="1043" xpos="-198.306" ypos="48.8548" zpos="322.106" iconfile="Data/icons/token_14_icon.png"/>
-	<POI type="ffcr.ab.asig.tablet_14" iconsize="1.2" GUID="tdzNpu8AuEGPe7+E9dzpWw==" MapID="1043" xpos="0.417487" ypos="71.3028" zpos="-21.7402" iconfile="Data/icons/token_14_icon.png"/>
-	<POI type="ffcr.ab.asig.tablet_15" iconsize="1.2" GUID="U+3RlBpgIkmnqZHssDehhQ==" MapID="1043" xpos="4.31817" ypos="22.3803" zpos="212.488" iconfile="Data/icons/token_15_icon.png"/>
-	<POI type="ffcr.ab.asig.tablet_15" iconsize="1.2" GUID="IrsxJzthhEyyxahaRJyk6Q==" MapID="1043" xpos="10.4016" ypos="71.4747" zpos="-22.6109" iconfile="Data/icons/token_15_icon.png"/>
-	<POI type="ffcr.ab.asig.tablet_16" iconsize="1.2" GUID="qyFb6AvZ2UKUjuei5sdc7Q==" MapID="1043" xpos="71.3144" ypos="7.1389" zpos="-8.77337" iconfile="Data/icons/token_16_icon.png"/>
-	<POI type="ffcr.ab.asig.tablet_16" iconsize="1.2" GUID="4XyPI+/HPkmAn3hC7RB0fQ==" MapID="1043" xpos="7.00861" ypos="71.2983" zpos="-20.8771" iconfile="Data/icons/token_16_icon.png"/>
-	<POI type="ffcr.ab.asig.tablet_17" iconsize="1.2" GUID="nNVX1JfyYEmLNxxPDwesLA==" MapID="1043" xpos="319.636" ypos="1.75137" zpos="-273.454" iconfile="Data/icons/token_17_icon.png"/>
-	<POI type="ffcr.ab.asig.tablet_17" iconsize="1.2" GUID="hWp1u8AJTEerbW2PCnzbOg==" MapID="1043" xpos="4.02712" ypos="71.3101" zpos="-19.4819" iconfile="Data/icons/token_17_icon.png"/>
+	
+		<!-- A Study In Gold -->
+		
+			<!-- Start Marker -->
+					<POI type="ffcr.ab.asig.tablet_1" iconsize="1.2" GUID="H5z70SVLn0GC2XetBAEpTQ==" MapID="1043" xpos="-234.65" ypos="231.013" zpos="-92.7356" iconfile="Data/icons/token_1_icon.png"/>
+					<POI type="ffcr.ab.asig.tablet_2" iconsize="1.2" GUID="KRwk5NkSKE6Zq2bubQR8lQ==" MapID="1043" xpos="-39.8006" ypos="127.072" zpos="-39.9114" iconfile="Data/icons/token_2_icon.png"/>
+					<POI type="ffcr.ab.asig.tablet_3" iconsize="1.2" GUID="KkrTHVKtmE2IXBL6klM3Dw==" MapID="1043" xpos="39.6912" ypos="127.072" zpos="-39.7625" iconfile="Data/icons/token_3_icon.png"/>
+					<POI type="ffcr.ab.asig.tablet_4" iconsize="1.2" GUID="OOsjvRlOrEizv23SLV26UQ==" MapID="1043" xpos="-40.3842" ypos="127.072" zpos="40.996" iconfile="Data/icons/token_4_icon.png"/>
+					<POI type="ffcr.ab.asig.tablet_5" iconsize="1.2" GUID="jlabIuuuMUWfOb/Faas+dw==" MapID="1043" xpos="137.148" ypos="173.619" zpos="209.039" iconfile="Data/icons/token_5_icon.png"/>
+					<POI type="ffcr.ab.asig.tablet_6" iconsize="1.2" GUID="955BZBUfcU+AOJs9ghQ2jg==" MapID="1043" xpos="350.387" ypos="154.996" zpos="-25.7175" iconfile="Data/icons/token_6_icon.png"/>
+					<POI type="ffcr.ab.asig.tablet_7" iconsize="1.2" GUID="Sci7jPepf0aW0e9TN01zsw==" MapID="1043" xpos="156.525" ypos="153.858" zpos="-83.6727" iconfile="Data/icons/token_7_icon.png"/>
+					<POI type="ffcr.ab.asig.tablet_8" iconsize="1.2" GUID="4dwKuNR2jEeW1S5gFtIkbg==" MapID="1043" xpos="-201.665" ypos="184.911" zpos="-220.337" iconfile="Data/icons/token_8_icon.png"/>
+					<POI type="ffcr.ab.asig.tablet_9" iconsize="1.2" GUID="72dELy3cLkSgXa6G30Aj0w==" MapID="1043" xpos="-198.306" ypos="158.417" zpos="95.0875" iconfile="Data/icons/token_9_icon.png"/>
+					<POI type="ffcr.ab.asig.tablet_10" iconsize="1.2" GUID="mFmk1THLdUmIfTq7kTcDJw==" MapID="1043" xpos="0.258724" ypos="246.056" zpos="-241.639" iconfile="Data/icons/token_10_icon.png"/>
+					<POI type="ffcr.ab.asig.tablet_11" iconsize="1.2" GUID="jmLwM+bdtUCWx2aGXmH5vg==" MapID="1043" xpos="0.785309" ypos="279.643" zpos="200.489" iconfile="Data/icons/token_11_icon.png"/>
+					<POI type="ffcr.ab.asig.tablet_12" iconsize="1.2" GUID="EAzkENxecU+oeqmeXk3o9A==" MapID="1043" xpos="-189.366" ypos="267.664" zpos="-207.367" iconfile="Data/icons/token_12_icon.png"/>
+					<POI type="ffcr.ab.asig.tablet_13" iconsize="1.2" GUID="JTaZ3AN8FE2vFF3Eymy1gw==" MapID="1043" xpos="-214.602" ypos="312.197" zpos="32.0561" iconfile="Data/icons/token_13_icon.png"/>
+					<POI type="ffcr.ab.asig.tablet_14" iconsize="1.2" GUID="pPqoMFys/0686HttSwvwwA==" MapID="1043" xpos="-198.306" ypos="48.8548" zpos="322.106" iconfile="Data/icons/token_14_icon.png"/>
+					<POI type="ffcr.ab.asig.tablet_15" iconsize="1.2" GUID="U+3RlBpgIkmnqZHssDehhQ==" MapID="1043" xpos="4.31817" ypos="22.3803" zpos="212.488" iconfile="Data/icons/token_15_icon.png"/>
+					<POI type="ffcr.ab.asig.tablet_16" iconsize="1.2" GUID="qyFb6AvZ2UKUjuei5sdc7Q==" MapID="1043" xpos="71.3144" ypos="7.1389" zpos="-8.77337" iconfile="Data/icons/token_16_icon.png"/>
+					<POI type="ffcr.ab.asig.tablet_17" iconsize="1.2" GUID="nNVX1JfyYEmLNxxPDwesLA==" MapID="1043" xpos="319.636" ypos="1.75137" zpos="-273.454" iconfile="Data/icons/token_17_icon.png"/>
+
+			<!-- End Marker -->
+					<POI type="ffcr.ab.asig.tablet_1" iconsize="1.2" GUID="nFQRtF1XtUKwr+UTaAHdpA==" MapID="1043" xpos="-364.909" ypos="271.191" zpos="249.278" iconfile="Data/icons/token_1_icon.png"/>
+					<POI type="ffcr.ab.asig.tablet_2" iconsize="1.2" GUID="YLIKk1FE0UmS+WlqJkSuQw==" MapID="1043" xpos="-54.0449" ypos="266.81" zpos="-399.776" iconfile="Data/icons/token_2_icon.png"/>	
+					<POI type="ffcr.ab.asig.tablet_3" iconsize="1.2" GUID="GyX5mOf1rUCgLASjgb9ihQ==" MapID="1043" xpos="-56.73" ypos="267.582" zpos="-398.302" iconfile="Data/icons/token_3_icon.png"/>	
+					<POI type="ffcr.ab.asig.tablet_4" iconsize="1.2" GUID="JFxHIR3iy0imq07Uex06zA==" MapID="1043" xpos="55.7881" ypos="332.108" zpos="472.249" iconfile="Data/icons/token_4_icon.png"/>
+					<POI type="ffcr.ab.asig.tablet_5" iconsize="1.2" GUID="jByZTHGy6ES+RNDH/Pk7ew==" MapID="1043" xpos="55.8862" ypos="331.582" zpos="475.494" iconfile="Data/icons/token_5_icon.png"/>
+					<POI type="ffcr.ab.asig.tablet_6" iconsize="1.2" GUID="xBeEz4m6Uke0PkzV1XS7/g==" MapID="1043" xpos="458.142" ypos="292.141" zpos="68.1979" iconfile="Data/icons/token_6_icon.png"/>
+					<POI type="ffcr.ab.asig.tablet_7" iconsize="1.2" GUID="sIi0tAykoU+pgV11xryFDw==" MapID="1043" xpos="-51.2955" ypos="266.703" zpos="-401.42" iconfile="Data/icons/token_7_icon.png"/>
+					<POI type="ffcr.ab.asig.tablet_8" iconsize="1.2" GUID="BnmIg2cXJ0ql/nXHh3mxbA==" MapID="1043" xpos="-48.0045" ypos="267.393" zpos="-402.844" iconfile="Data/icons/token_8_icon.png"/>
+					<POI type="ffcr.ab.asig.tablet_9" iconsize="1.2" GUID="MwOAMuamGEavv6M6Hm3GWQ==" MapID="1043" xpos="-358.524" ypos="271.252" zpos="248.86" iconfile="Data/icons/token_9_icon.png"/>
+					<POI type="ffcr.ab.asig.tablet_10" iconsize="1.2" GUID="QKPunvNxuEe96AuwXzA/jA==" MapID="1043" xpos="-44.6468" ypos="268.002" zpos="-404.332" iconfile="Data/icons/token_10_icon.png"/>		
+					<POI type="ffcr.ab.asig.tablet_11" iconsize="1.2" GUID="ABHEe3rZZUSPLULoB4thaA==" MapID="1043" xpos="56.3714" ypos="332.605" zpos="468.901" iconfile="Data/icons/token_11_icon.png"/>
+					<POI type="ffcr.ab.asig.tablet_12" iconsize="1.2" GUID="bPVf2xpk9k2Wmo7VvmmZlg==" MapID="1043" xpos="-360.401" ypos="270.417" zpos="243.119" iconfile="Data/icons/token_12_icon.png"/>
+					<POI type="ffcr.ab.asig.tablet_13" iconsize="1.2" GUID="sQezlf+rCku3qC5fPt86oQ==" MapID="1043" xpos="-359.227" ypos="270.382" zpos="245.948" iconfile="Data/icons/token_13_icon.png"/>
+					<POI type="ffcr.ab.asig.tablet_14" iconsize="1.2" GUID="tdzNpu8AuEGPe7+E9dzpWw==" MapID="1043" xpos="0.417487" ypos="71.3028" zpos="-21.7402" iconfile="Data/icons/token_14_icon.png"/>		
+					<POI type="ffcr.ab.asig.tablet_15" iconsize="1.2" GUID="IrsxJzthhEyyxahaRJyk6Q==" MapID="1043" xpos="10.4016" ypos="71.4747" zpos="-22.6109" iconfile="Data/icons/token_15_icon.png"/>
+					<POI type="ffcr.ab.asig.tablet_16" iconsize="1.2" GUID="4XyPI+/HPkmAn3hC7RB0fQ==" MapID="1043" xpos="7.00861" ypos="71.2983" zpos="-20.8771" iconfile="Data/icons/token_16_icon.png"/>
+					<POI type="ffcr.ab.asig.tablet_17" iconsize="1.2" GUID="hWp1u8AJTEerbW2PCnzbOg==" MapID="1043" xpos="4.02712" ypos="71.3101" zpos="-19.4819" iconfile="Data/icons/token_17_icon.png"/>
+			
+		<!-- No Mask Left Behind -->
+		
+			<!-- Start Markers -->
+				<POI type="ffcr.ab.nmlb.mask_1" iconsize="1.2" GUID="ukuBBN6oBUml/P6LIugf6A==" MapID="1043" xpos="67.3335" ypos="301.834" zpos="536.061" iconfile="Data/icons/token_1_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_2" iconsize="1.2" GUID="/O9+Pcp17UWoy7teiY1psg==" MapID="1043" xpos="571.851" ypos="299.42" zpos="356.896" iconfile="Data/icons/token_2_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_3" iconsize="1.2" GUID="S+Vn0ATsc0y8+1bJ/JK/jw==" MapID="1043" xpos="476.527" ypos="342.972" zpos="130.945" iconfile="Data/icons/token_3_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_4" iconsize="1.2" GUID="p2lrkET1YUSc3/gjt2QsiQ==" MapID="1043" xpos="-432.313" ypos="291.704" zpos="-432.655" iconfile="Data/icons/token_4_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_5" iconsize="1.2" GUID="k3boqdAI6ECXooI79/3Wug==" MapID="1043" xpos="206.646" ypos="266.947" zpos="-647.907" iconfile="Data/icons/token_5_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_6" iconsize="1.2" GUID="h/QC9FDvnUaQ/ut593vFPw==" MapID="1043" xpos="62.7119" ypos="223.664" zpos="-804.821" iconfile="Data/icons/token_6_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_7" iconsize="1.2" GUID="f/E8sPJidEKBJGz7JcrVJA==" MapID="1043" xpos="320.368" ypos="282.414" zpos="-232.811" iconfile="Data/icons/token_7_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_8" iconsize="1.2" GUID="Ez1mOnKG8EeRF8S1TyclaA==" MapID="1043" xpos="613.114" ypos="307.454" zpos="64.7103" iconfile="Data/icons/token_8_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_9" iconsize="1.2" GUID="0rReLJd9sUedpBmZ/0nZJA==" MapID="1043" xpos="-337.197" ypos="295.542" zpos="-369.768" iconfile="Data/icons/token_9_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_10" iconsize="1.2" GUID="AFxGesDFI0y6bL4p56SmPg==" MapID="1043" xpos="-510.367" ypos="122.759" zpos="-266.231" iconfile="Data/icons/token_10_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_11" iconsize="1.2" GUID="u7NqKdFjt0mVakjzVwYBsQ==" MapID="1043" xpos="-593.513" ypos="291.194" zpos="152.225" iconfile="Data/icons/token_11_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_12" iconsize="1.2" GUID="jUBhwTxs+0CyhTrBsK7gxw==" MapID="1043" xpos="-364.752" ypos="420.68" zpos="523.757" iconfile="Data/icons/token_12_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_13" iconsize="1.2" GUID="FsKL411DfEOuAPrs0+zuUw==" MapID="1043" xpos="-18.3309" ypos="389.614" zpos="546.847" iconfile="Data/icons/token_13_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_14" iconsize="1.2" GUID="j4/r4uu/Qk247luRTzHFhA==" MapID="1043" xpos="377.538" ypos="347.402" zpos="536.288" iconfile="Data/icons/token_14_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_15" iconsize="1.2" GUID="Rh8b4fipKk6LZJBXxr8Ncw==" MapID="1043" xpos="541.95" ypos="371.539" zpos="717.749" iconfile="Data/icons/token_15_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_16" iconsize="1.2" GUID="mpAmFL/DF0Kp+NeRD+4kqg==" MapID="1043" xpos="503.704" ypos="282.946" zpos="-527.716" iconfile="Data/icons/token_16_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_17" iconsize="1.2" GUID="uLY+16/uGk6TqXU9lQgT6A==" MapID="1043" xpos="431.43" ypos="246.704" zpos="-819.153" iconfile="Data/icons/token_17_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_18" iconsize="1.2" GUID="E4xH1hIVREWzm6r5xfRDsA==" MapID="1043" xpos="94.4207" ypos="277.868" zpos="-681.553" iconfile="Data/icons/token_18_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_19" iconsize="1.2" GUID="/ydUwXi3NU+kRUliKP6J1Q==" MapID="1043" xpos="-179.868" ypos="305.306" zpos="-581.797" iconfile="Data/icons/token_19_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_20" iconsize="1.2" GUID="jEFLS1foOUKzaShBrz0b/Q==" MapID="1043" xpos="-108.814" ypos="305.423" zpos="-383.175" iconfile="Data/icons/token_20_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_21" iconsize="1.2" GUID="1ImPs++VvE+sjoBCcMB4Ag==" MapID="1043" xpos="59.3956" ypos="319.331" zpos="-294.974" iconfile="Data/icons/token_21_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_22" iconsize="1.2" GUID="hFKp9nOGK0ulZhMlqWLlAg==" MapID="1043" xpos="148.307" ypos="303.845" zpos="-446.115" iconfile="Data/icons/token_22_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_23" iconsize="1.2" GUID="WLaX+gJw3EytBIG8eyvMrg==" MapID="1043" xpos="-309.459" ypos="364.74" zpos="735.391" iconfile="Data/icons/token_23_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_24" iconsize="1.2" GUID="dVzwIQZGM0mxgTUm1rjhug==" MapID="1043" xpos="-576.368" ypos="288.679" zpos="-41.595" iconfile="Data/icons/token_24_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_25" iconsize="1.2" GUID="kwntekXEaEeV1BylIO4yYQ==" MapID="1043" xpos="82.4241" ypos="352.836" zpos="327.496" iconfile="Data/icons/token_25_icon.png"/>
+			
+			<!-- End Markers -->
+				<POI type="ffcr.ab.nmlb.mask_1" iconsize="1.2" GUID="6w0tXMUdZUKuyldfi48JAw==" MapID="1043" xpos="56.7788" ypos="330.307" zpos="480.027" iconfile="Data/icons/token_1_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_2" iconsize="1.2" GUID="oZXzmAjyIU60a30nKgSd5w==" MapID="1043" xpos="461.863" ypos="291.955" zpos="74.8228" iconfile="Data/icons/token_2_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_3" iconsize="1.2" GUID="QR1cSDKxg0izvlYi8TzlyA==" MapID="1043" xpos="462.178" ypos="291.704" zpos="71.9928" iconfile="Data/icons/token_3_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_4" iconsize="1.2" GUID="RNoHNM3EZUWtWSmfhknmhA==" MapID="1043" xpos="-61.086" ypos="267.635" zpos="-406.467" iconfile="Data/icons/token_4_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_5" iconsize="1.2" GUID="lhlzQ8AjsU6M2MWGf7Riuw==" MapID="1043" xpos="335.241" ypos="234.026" zpos="-673.941" iconfile="Data/icons/token_5_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_6" iconsize="1.2" GUID="Qj7e2YCovkuGlBxt/G9RMw==" MapID="1043" xpos="335.204" ypos="233.967" zpos="-677.3" iconfile="Data/icons/token_6_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_7" iconsize="1.2" GUID="vBxCXuoCsUq+jnKwoZmzZg==" MapID="1043" xpos="456.948" ypos="292.13" zpos="75.0851" iconfile="Data/icons/token_7_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_8" iconsize="1.2" GUID="3Ju13ZFMBk2Q5gX8etHFkg==" MapID="1043" xpos="462.71" ypos="291.604" zpos="68.6319" iconfile="Data/icons/token_8_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_9" iconsize="1.2" GUID="8B12m+DBJEe+OLhT+KK+PQ==" MapID="1043" xpos="-364.292" ypos="270.519" zpos="237.424" iconfile="Data/icons/token_9_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_10" iconsize="1.2" GUID="y0/IEYLFqEOO2wxpksdQUQ==" MapID="1043" xpos="-367.409" ypos="269.874" zpos="236.427" iconfile="Data/icons/token_10_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_11" iconsize="1.2" GUID="q9V5qYKa5ECvSfuyumQJ3g==" MapID="1043" xpos="-367.422" ypos="272.286" zpos="253.896" iconfile="Data/icons/token_11_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_12" iconsize="1.2" GUID="WtO2NLPYmUakRurjMaMj1w==" MapID="1043" xpos="-381.406" ypos="475.118" zpos="667.841" iconfile="Data/icons/token_12_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_13" iconsize="1.2" GUID="pO2N4O3mT0iYpvXN4OkmHQ==" MapID="1043" xpos="-380.029" ypos="475.22" zpos="670.104" iconfile="Data/icons/token_13_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_14" iconsize="1.2" GUID="pY8AHrLm6kal34wU8KBGVg==" MapID="1043" xpos="60.183" ypos="330.507" zpos="480.719" iconfile="Data/icons/token_14_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_15" iconsize="1.2" GUID="ZpbIzOwosUyYuO8Jd+QKVA==" MapID="1043" xpos="62.8741" ypos="331.471" zpos="478.462" iconfile="Data/icons/token_15_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_16" iconsize="1.2" GUID="shqlWB3tyU2bglj+Wf2Dpg==" MapID="1043" xpos="334.733" ypos="234.165" zpos="-670.473" iconfile="Data/icons/token_16_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_17" iconsize="1.2" GUID="OP0Of8wjNEi5hfCpOxezGg==" MapID="1043" xpos="338.948" ypos="234.463" zpos="-680.783" iconfile="Data/icons/token_17_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_18" iconsize="1.2" GUID="eO9WYAdzNESwGl7HTY/H5Q==" MapID="1043" xpos="-58.9393" ypos="267.427" zpos="-407.729" iconfile="Data/icons/token_18_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_19" iconsize="1.2" GUID="wZtlYpaYj0ieka5ioJML0A==" MapID="1043" xpos="-63.8058" ypos="268.098" zpos="-404.977" iconfile="Data/icons/token_19_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_20" iconsize="1.2" GUID="8EfY342n40+D9oT7fMnw+w==" MapID="1043" xpos="-55.8514" ypos="267.235" zpos="-409.288" iconfile="Data/icons/token_20_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_21" iconsize="1.2" GUID="i2Y8PrL4Ck6K2BhPxhfNpA==" MapID="1043" xpos="-41.9308" ypos="268.461" zpos="-405.17" iconfile="Data/icons/token_21_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_22" iconsize="1.2" GUID="xZpNHOtUhkWkH75jBo24RA==" MapID="1043" xpos="335.804" ypos="233.9" zpos="-680.369" iconfile="Data/icons/token_22_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_23" iconsize="1.2" GUID="yLsNKIQPmkqmvWJ80hr/kA==" MapID="1043" xpos="-380.212" ypos="475.27" zpos="672.366" iconfile="Data/icons/token_23_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_24" iconsize="1.2" GUID="m13wzwKoMk2ILtXXM7HP3Q==" MapID="1043" xpos="-369.72" ypos="269.727" zpos="234.722" iconfile="Data/icons/token_24_icon.png"/>
+				<POI type="ffcr.ab.nmlb.mask_25" iconsize="1.2" GUID="qrVmMvmBfk6xdH0zkXxkXA==" MapID="1043" xpos="64.4526" ypos="331.772" zpos="476.152" iconfile="Data/icons/token_25_icon.png"/>
 
   </POIs>
 </OverlayData>
